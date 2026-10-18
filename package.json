@@ -1,0 +1,23 @@
+{
+  "name": "hellosai-video-generator",
+  "private": true,
+  "scripts": {
+    "render": "remotion render",
+    "web": "node server.cjs",
+    "dev": "node server.cjs",
+    "prepare:logos": "python tools/prepare_logos.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.534",
+    "@remotion/player": "4.0.534",
+    "esbuild": "0.28.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.534"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "5.9.3"
+  }
+}

@@ -1,0 +1,225 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HellosAI 视频生成器</title><style>body{margin:0;background:#f4f7f5;color:#15211c;font-family:Microsoft YaHei,Arial}.top{height:70px;background:#fff;border-bottom:1px solid #dfe7e2;padding:0 30px;display:flex;align-items:center;justify-content:space-between}.brand{font-size:24px;font-weight:900}.layout{max-width:1400px;margin:24px auto;padding:0 22px;display:grid;grid-template-columns:1fr 400px;gap:22px}.panel{background:#fff;border:1px solid #dfe7e2;border-radius:18px;padding:20px}.tools{display:flex;gap:10px;margin-bottom:14px}.tools input,.tools select,.tools button{height:40px;border:1px solid #d5dfd9;border-radius:9px;padding:0 10px}.tools input{flex:1}.list{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;max-height:680px;overflow:auto}.item{border:1px solid #e0e7e2;border-radius:13px;padding:10px;display:grid;grid-template-columns:22px 55px 1fr;gap:8px;cursor:pointer}.item.on{border-color:#1c745d;background:#f1faf5}.item img{width:55px;height:55px;object-fit:contain;border-radius:8px;background:#f2f3f1}.name{font-size:13px;font-weight:800;line-height:1.4}.meta{font-size:11px;color:#75817c;margin-top:4px}.price{font-size:14px;font-weight:900;color:#c85c38;margin-top:4px}.button{width:100%;height:45px;background:#1c745d;color:#fff;border:0;border-radius:23px;font-weight:900;cursor:pointer}.button:disabled{opacity:.45}.status{margin-top:12px;padding:10px;background:#f0f6f2;border-radius:9px;font-size:12px;white-space:pre-wrap;word-break:break-word}@media(max-width:850px){.layout{grid-template-columns:1fr}.list{max-height:none}}
+.layout{grid-template-columns:minmax(0,1fr) 400px;align-items:stretch}
+.editor-column{display:grid;grid-template-rows:auto minmax(0,1fr);gap:22px;min-width:0;min-height:0;height:var(--preview-height,772px)}
+.panel{min-width:0}
+.panel-header{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:16px}
+.section-title{margin:0;font-size:16px;font-weight:800}
+.section-hint{margin:6px 0 16px;font-size:12px;color:#75817c;line-height:1.6}
+.media-panel .media-actions button{height:32px;border:1px solid #d5dfd9;border-radius:8px;background:#fff;cursor:pointer;padding:0 10px}
+.media-controls{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.media-field{min-width:0;position:relative}
+.media-field>label{display:block;font-size:12px;color:#64736b;margin-bottom:8px}
+.media-select-row{display:flex;align-items:center;gap:8px;min-width:0}
+.media-select-row select{flex:1;min-width:0;width:100%;height:36px;border:1px solid #d5dfd9;border-radius:8px;padding:0 8px;background:#fff}
+.audio-toggle{flex:none;width:36px;height:36px;border:1px solid #d5dfd9;border-radius:8px;background:#f1faf5;color:#1c745d;cursor:pointer;font-size:16px}
+.audio-toggle[hidden],.background-popover[hidden]{display:none}
+.background-popover{position:absolute;top:100%;left:0;z-index:20;margin-top:8px;padding:8px;background:#fff;border:1px solid #dfe7e2;border-radius:10px;box-shadow:0 8px 24px #15211c24;pointer-events:none}
+.background-popover img{display:block;max-width:min(260px,65vw);max-height:280px;object-fit:contain;border-radius:5px}
+.preview-panel{align-self:start}
+.preview-panel>.section-title{margin-bottom:18px}
+.products-panel{display:flex;flex-direction:column;min-height:0;overflow:hidden}
+.products-panel>.list{flex:1;min-height:0;height:0;max-height:none;align-content:start;overflow:auto;scrollbar-gutter:stable}
+.products-panel>.section-title,.products-panel>.section-hint,.products-panel>.tools{flex-shrink:0}
+.tools{flex-wrap:wrap}
+.tools input{min-width:140px;width:0}
+.item{min-width:0}
+.item>div:last-child{min-width:0;overflow-wrap:anywhere}
+@media(max-width:850px){.layout{grid-template-columns:minmax(0,1fr)}.editor-column{grid-template-rows:auto auto;height:auto}.products-panel>.list{flex:none;height:auto;max-height:480px}}
+@media(max-width:600px){.layout{padding:0 14px;gap:16px;margin:16px auto}.editor-column{gap:16px}.panel{padding:16px}.media-controls{grid-template-columns:minmax(0,1fr);gap:16px}.list{grid-template-columns:minmax(0,1fr)}.top{height:auto;min-height:70px;padding:12px 16px;gap:8px;flex-wrap:wrap}.tools select{min-width:0;max-width:100%}}
+.media-actions{display:flex;gap:8px;flex-wrap:wrap}
+.upload-dialog{width:min(420px,calc(100vw - 64px));padding:24px;border:1px solid #dfe7e2;border-radius:16px;color:#15211c;background:#fff}
+.upload-dialog::backdrop{background:#15211c66}
+.upload-form{display:grid;gap:16px}
+.upload-form label{display:grid;gap:8px;font-size:13px}
+.upload-form input[type="file"]{box-sizing:border-box;max-width:100%;width:100%;padding:10px;border:1px solid #d5dfd9;border-radius:8px;background:#fff}
+.upload-types{margin:0;padding:0;border:0;min-width:0}
+.upload-types legend{padding:0;margin-bottom:10px;font-size:13px}
+.upload-type-options{display:flex;gap:12px;flex-wrap:wrap}
+.upload-type-options label{display:flex;align-items:center;gap:8px;padding:10px 14px;border:1px solid #d5dfd9;border-radius:8px;cursor:pointer}
+.upload-type-options label:has(input:checked){border-color:#1c745d;background:#f1faf5}
+.upload-type-options input{margin:0;accent-color:#1c745d}
+.upload-help,.upload-message{margin:0;font-size:12px;line-height:1.6;color:#64736b;overflow-wrap:anywhere}
+.upload-actions{display:flex;justify-content:flex-end;gap:10px}
+.upload-actions button{padding:9px 16px;border:1px solid #d5dfd9;border-radius:8px;cursor:pointer;background:#fff}
+.upload-actions button[type="submit"]{background:#1c745d;color:#fff;border-color:#1c745d}
+.upload-actions button:disabled{opacity:.5;cursor:wait}
+</style></head><body><div class="top"><div class="brand">HellosAI 视频生成器</div><div style="color:#75817c;font-size:13px">今日参考视频风格 · 1080×1920</div></div><main class="layout">
+  <div class="editor-column">
+    <section class="panel media-panel" aria-labelledby="mediaTitle">
+      <div class="panel-header">
+        <h2 id="mediaTitle" class="section-title">视频素材</h2>
+        <div class="media-actions"><button id="uploadMedia" type="button">上传素材</button><button id="refreshMedia" type="button">刷新素材列表</button></div>
+      </div>
+      <div class="media-controls">
+        <div class="media-field" id="backgroundField">
+          <label for="backgroundSelect">视频背景</label>
+          <div class="media-select-row"><select id="backgroundSelect"></select></div>
+          <div class="background-popover" id="backgroundPopover" hidden><img id="backgroundPreview" alt="所选背景预览"></div>
+        </div>
+        <div class="media-field">
+          <label for="bgmSelect">背景音乐</label>
+          <div class="media-select-row">
+            <select id="bgmSelect"></select>
+            <button class="audio-toggle" id="bgmToggle" type="button" aria-label="试听背景音乐" title="试听背景音乐" aria-pressed="false" hidden>▶</button>
+          </div>
+          <audio id="bgmPreview" preload="none" hidden></audio>
+        </div>
+      </div>
+    </section>
+    <section class="panel products-panel" aria-labelledby="productsTitle">
+      <h2 id="productsTitle" class="section-title">选择商品</h2>
+      <p class="section-hint">最多选择 10 个商品，视频将按选择顺序逐一展示。</p>
+      <div class="tools">
+        <input id="q" placeholder="搜索优化标题、原始名称或分类">
+        <select id="cat"><option value="">全部分类</option></select>
+        <button id="refresh">刷新商品目录</button>
+      </div>
+      <div class="list" id="list"></div>
+    </section>
+  </div>
+  <aside class="panel preview-panel" aria-labelledby="previewTitle">
+    <h2 id="previewTitle" class="section-title">视频效果预览</h2>
+    <div id="videoPreview" style="width:100%;max-width:320px;aspect-ratio:9 / 16;overflow:hidden;margin:0 auto 18px;background:#fcfbf9"></div>
+    <button id="go" class="button" disabled>请先选择商品</button>
+    <div id="exportHint" style="margin-top:8px;font-size:12px;color:#75817c;line-height:1.6">选择商品后，可导出 MP4 视频与 PNG 封面</div>
+    <div class="status" id="status" aria-live="polite"></div>
+  </aside>
+</main>
+<dialog class="upload-dialog" id="uploadDialog" aria-labelledby="uploadTitle">
+  <form class="upload-form" id="uploadForm">
+    <h2 class="section-title" id="uploadTitle">上传视频素材</h2>
+    <fieldset class="upload-types" id="uploadType">
+      <legend>素材类型</legend>
+      <div class="upload-type-options">
+        <label><input type="radio" name="uploadType" value="background" checked>背景图片</label>
+        <label><input type="radio" name="uploadType" value="bgm">背景音乐</label>
+      </div>
+    </fieldset>
+    <label>选择文件<input id="uploadFile" type="file" accept=".png,.jpg,.jpeg,.webp" required></label>
+    <p class="upload-help" id="uploadHelp">支持 PNG、JPG、WEBP，最大 20 MB。上传后自动选用；同名文件不会覆盖。</p>
+    <p class="upload-message" id="uploadMessage" role="status"></p>
+    <div class="upload-actions"><button id="cancelUpload" type="button">取消</button><button id="submitUpload" type="submit">上传并使用</button></div>
+  </form>
+</dialog>
+
+<script type="module">let all=[],picked=[],previewSequence=0;let latestPreview=null;let exporting=false;function updateExportButton(){const count=picked.length;$('go').disabled=exporting||count<1;$('go').textContent=exporting?'\u6b63\u5728\u5bfc\u51fa\u2026\u2026':count?'合成并下载 MP4 视频':'\u8bf7\u5148\u9009\u62e9\u5546\u54c1';$('exportHint').textContent=count?'\u5df2\u9009\u62e9 '+count+' \u4e2a\u5546\u54c1\uff08\u6700\u591a 10 \u4e2a\uff09\uff0c合成后自动下载视频，封面可单独下载':'\u9009\u62e9\u5546\u54c1\u540e\uff0c\u53ef\u5bfc\u51fa MP4 \u89c6\u9891\u4e0e PNG \u5c01\u9762'}const $=x=>document.getElementById(x),esc=x=>String(x).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));function draw(){const q=$('q').value.toLowerCase(),c=$('cat').value,items=all.filter(p=>(!q||p.displayTitle.toLowerCase().includes(q)||p.rawTitle.toLowerCase().includes(q)||p.category.toLowerCase().includes(q))&&(!c||p.category===c));$('list').innerHTML=items.map(p=>`<div class="item ${picked.includes(p.id)?'on':''}" data-id="${p.id}"><input type="checkbox" ${picked.includes(p.id)?'checked':''}>${p.image?`<img src="/public/assets/${p.image}">`:`<div style="width:55px;height:55px;border:1px dashed #b9c6bf;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:9px;color:#7b8a83;text-align:center">待补充图片</div>`}<div><div class="name">${esc(p.displayTitle)}</div><div class="meta">原始：${esc(p.rawTitle)}<br>${esc(p.label)}</div><div class="price">${esc(p.price)}</div></div></div>`).join('');document.querySelectorAll('.item').forEach(e=>e.onclick=()=>{const id=+e.dataset.id;if(picked.includes(id))picked=picked.filter(x=>x!==id);else if(picked.length<10)picked.push(id);draw();preview()})}function preview(){const ps=picked.map(id=>all.find(p=>p.id===id)).filter(Boolean);refreshVideoPreview();updateExportButton();}async function refreshVideoPreview(){const sequence=++previewSequence;try{const response=await fetch('/api/preview',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ids:picked,background:$('backgroundSelect').value,bgm:$('bgmSelect').value})});const data=await response.json();if(!response.ok)throw new Error(data.error||'Preview failed');if(sequence!==previewSequence)return;latestPreview=data.inputProps;if(window.updateVideoPreview)window.updateVideoPreview(latestPreview)}catch(error){if(sequence===previewSequence)$('status').textContent=error.message}}window.addEventListener('video-preview-ready',()=>{if(latestPreview)window.updateVideoPreview(latestPreview)});$('q').oninput=draw;$('cat').onchange=draw;function addDownloadLink(info,label){
+  if(!info)return null;
+  const link=document.createElement('a');
+  link.href=info.url;link.download=info.filename;link.textContent=label;
+  link.style.display='inline-block';link.style.margin='8px 16px 0 0';
+  $('status').appendChild(link);return link;
+}
+$('go').onclick=async()=>{
+  if(exporting||!picked.length)return;
+  exporting=true;updateExportButton();
+  $('status').textContent='正在提交合成任务……';
+  try{
+    const response=await fetch('/api/render',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({ids:picked,background:$('backgroundSelect').value,bgm:$('bgmSelect').value})});
+    const data=await response.json();
+    if(!response.ok)throw new Error(data.error||'提交失败');
+    while(true){
+      await new Promise(resolve=>setTimeout(resolve,1200));
+      const statusResponse=await fetch('/api/status',{cache:'no-store'});
+      const status=await statusResponse.json();
+      if(!statusResponse.ok)throw new Error(status.error||'获取合成进度失败');
+      $('status').textContent=status.message;
+      if(status.status==='error'){
+        addDownloadLink(status.downloads?.cover,'下载已生成的封面 PNG');
+        break;
+      }
+      if(status.status==='done'){
+        if(!status.downloads?.video)throw new Error('合成完成，但未取得下载地址');
+        $('status').textContent='视频合成完成，已请求浏览器下载。请在浏览器下载列表中查看；保存位置遵循浏览器下载设置。';
+        const videoLink=addDownloadLink(status.downloads.video,'重新下载 MP4 视频');
+        addDownloadLink(status.downloads.cover,'下载封面 PNG');
+        videoLink.click();
+        break;
+      }
+    }
+  }catch(error){$('status').textContent=error.message}
+  finally{exporting=false;updateExportButton()}
+};
+const previewPanel=document.querySelector('.preview-panel');
+const previewSizeObserver=new ResizeObserver(()=>{
+  document.querySelector('.layout').style.setProperty('--preview-height',previewPanel.getBoundingClientRect().height+'px');
+});
+previewSizeObserver.observe(previewPanel);
+const audio=$('bgmPreview'),audioToggle=$('bgmToggle');
+function updateAudioButton(){
+  const playing=!audio.paused;
+  audioToggle.textContent=playing?'❚❚':'▶';
+  audioToggle.title=playing?'暂停试听':'试听背景音乐';
+  audioToggle.setAttribute('aria-label',audioToggle.title);
+  audioToggle.setAttribute('aria-pressed',String(playing));
+}
+audio.onplay=audio.onpause=audio.onended=updateAudioButton;
+audio.onerror=()=>{audio.pause();updateAudioButton();$('status').textContent='背景音乐无法播放，请检查文件格式或重新选择。'};
+audioToggle.onclick=async()=>{try{if(audio.paused)await audio.play();else audio.pause()}catch(error){$('status').textContent='无法试听背景音乐：'+error.message}};
+function updateBackgroundPreview(){
+  const image=$('backgroundPreview'),value=$('backgroundSelect').value;
+  $('backgroundPopover').hidden=true;
+  if(value)image.src='/public/assets/background/'+encodeURIComponent(value);
+  else image.removeAttribute('src');
+}
+function showBackgroundPreview(){if($('backgroundSelect').value)$('backgroundPopover').hidden=false}
+$('backgroundSelect').onmouseenter=showBackgroundPreview;
+$('backgroundSelect').onfocus=showBackgroundPreview;
+$('backgroundField').onmouseleave=()=>{$('backgroundPopover').hidden=true};
+$('backgroundSelect').onblur=()=>{$('backgroundPopover').hidden=true};
+async function loadMedia(selection={}){
+  try{
+    const response=await fetch('/api/assets?ts='+Date.now());
+    if(!response.ok)throw new Error('无法加载素材列表');
+    const assets=await response.json(),background=$('backgroundSelect'),music=$('bgmSelect');
+    const fill=(element,items,emptyLabel)=>{
+      const previous=element.value;
+      element.innerHTML=`<option value="">${emptyLabel}</option>`+items.map(name=>`<option value="${esc(name)}">${esc(name)}</option>`).join('');
+      element.value=items.includes(previous)?previous:'';
+    };
+    fill(background,assets.backgrounds,'无背景');fill(music,assets.bgms,'无');
+    if(selection.folder==='background')background.value=selection.filename;
+    if(selection.folder==='bgm')music.value=selection.filename;
+    const syncAudio=()=>{
+      audio.pause();
+      if(music.value)audio.src='/public/assets/bgm/'+encodeURIComponent(music.value);
+      else audio.removeAttribute('src');
+      audioToggle.hidden=!music.value;audio.load();updateAudioButton();
+    };
+    background.onchange=()=>{updateBackgroundPreview();preview()};
+    music.onchange=()=>{syncAudio();preview()};
+    syncAudio();updateBackgroundPreview();preview();
+  }catch(error){$('status').textContent=error.message}
+}
+let uploading=false;
+$('uploadMedia').onclick=()=>{$('uploadMessage').textContent='';$('uploadDialog').showModal()};
+$('cancelUpload').onclick=()=>{if(!uploading)$('uploadDialog').close()};
+$('uploadDialog').oncancel=event=>{if(uploading)event.preventDefault()};
+$('uploadType').onchange=()=>{
+  const background=document.querySelector('input[name="uploadType"]:checked').value==='background';
+  $('uploadFile').accept=background?'.png,.jpg,.jpeg,.webp':'.mp3,.wav,.m4a';
+  $('uploadFile').value='';$('uploadMessage').textContent='';
+  $('uploadHelp').textContent=background?'支持 PNG、JPG、WEBP，最大 20 MB。上传后自动选用；同名文件不会覆盖。':'支持 MP3、WAV、M4A，最大 50 MB。上传后自动选用；同名文件不会覆盖。';
+};
+$('uploadForm').onsubmit=async event=>{
+  event.preventDefault();if(uploading)return;
+  const file=$('uploadFile').files[0],folder=document.querySelector('input[name="uploadType"]:checked').value;
+  if(!file)return;
+  if(file.size>(folder==='background'?20:50)*1024*1024){$('uploadMessage').textContent='文件超过大小限制，请选择更小的文件。';return}
+  uploading=true;
+  for(const id of ['uploadType','uploadFile','cancelUpload','submitUpload'])$(id).disabled=true;
+  $('submitUpload').textContent='正在上传……';$('uploadMessage').textContent='正在上传，请稍候……';
+  try{
+    const response=await fetch('/api/upload?type='+encodeURIComponent(folder)+'&name='+encodeURIComponent(file.name),{method:'POST',headers:{'Content-Type':'application/octet-stream'},body:file});
+    const result=await response.json();
+    if(!response.ok)throw new Error(result.error||'上传失败');
+    await loadMedia(result);
+    $('uploadDialog').close();$('uploadFile').value='';
+    $('status').textContent='已上传并选用'+(folder==='background'?'背景图片：':'背景音乐：')+result.filename;
+  }catch(error){$('uploadMessage').textContent=error.message}
+  finally{
+    uploading=false;
+    for(const id of ['uploadType','uploadFile','cancelUpload','submitUpload'])$(id).disabled=false;
+    $('submitUpload').textContent='上传并使用';
+  }
+};
+$('refreshMedia').onclick=()=>loadMedia();loadMedia();fetch('/api/products').then(r=>r.json()).then(d=>{all=d.products;[...new Set(all.map(p=>p.category))].forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;$('cat').appendChild(o)});draw();preview()}).catch(e=>$('status').textContent=e.message)</script><script src="/web/preview.js" defer></script></body></html>
