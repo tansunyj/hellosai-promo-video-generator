@@ -1,33 +1,278 @@
 # HellosAI 视频生成器
 
-## 启动
+一个基于 Remotion 的竖屏 AI 数字商品宣传视频生成器。
 
-在本项目目录执行 `npm run dev`，然后打开 `http://localhost:4174/`。
+项目用于从商品目录中选择商品，自动组合商品 Logo、套餐名称、价格、商品说明、背景图和背景音乐，生成适合短视频平台发布的 9:16 宣传视频。
 
-## 预览和导出
+## 店铺地址
 
-- 选择 1–10 个商品，并选择背景图和 BGM；两者均可选择“无”。
-- 右侧是真实视频播放器，可播放、暂停和拖动进度，查看封面、商品动画、价格和结尾。
-- 预览和 MP4 直接使用 `src/Video.tsx` 的 `ShopPromoGenerator`，不再维护另一套预览文案或排版。
-- 两者共用服务端 `prepareInput` 生成的参数，分辨率 1080×1920，24 fps，开头封面 2.5 秒。
-- 点击“合成并下载 MP4 视频”后，先合成视频，完成时自动触发浏览器下载；页面同时提供视频重下和独立 PNG 封面下载链接。
-- 文件保存到浏览器设置的下载位置（通常为“下载”文件夹）；如开启“下载前询问保存位置”，请按浏览器提示选择。
-- 项目 `output` 仍保留 MP4、`_cover.png` 独立封面和 `_props.json` 本次参数快照。
-- 修改模板代码后需重启 `npm run dev` 并刷新网页，启动时会重新构建播放器。
+订阅小铺：<https://www.16688.com.cn/shop/S393570>
 
-## 手动重现导出
+## 主要功能
+
+- Web 页面操作，不需要手动修改视频代码。
+- 商品目录支持搜索、分类筛选和最多 10 个商品选择。
+- 商品封面最多展示前 4 个 Logo，视频主体完整展示所有已选商品。
+- 视频开头包含约 2.5 秒的商品封面画面。
+- 商品场景动态展示商品名称、套餐标签、价格和说明。
+- 支持选择背景图片，也支持“无背景”。
+- 支持选择背景音乐，也支持“无 BGM”。
+- 背景图片可以在网页中悬停预览。
+- 选择 BGM 后可以在网页中试听，未选择 BGM 时不显示播放按钮。
+- 支持通过网页上传背景图片和背景音乐。
+- 预览播放器和最终导出视频共用 `src/Video.tsx`，保证预览和导出保持一致。
+- 导出完成后自动触发浏览器下载 MP4，并提供独立 PNG 封面下载。
+
+## 环境要求
+
+- Windows、macOS 或 Linux。
+- Node.js，建议使用较新的 LTS 版本。
+- npm。
+- Python 3，用于生成透明 Logo 资源。
+- Python Pillow，安装依赖见 `tools/requirements-logos.txt`。
+
+## 安装依赖
+
+在项目根目录执行：
 
 ```powershell
-npm run render -- ShopPromoGenerator "output/manual.mp4" --props="output/HellosAI_Promo_TIMESTAMP_props.json"
+npm install
+python -m pip install -r tools/requirements-logos.txt
 ```
 
+## 启动 Web 页面
 
-## 透明 Logo
+在项目根目录执行：
 
-启动时会处理现有支持的 Logo 素材，结果保存到 `public/assets/logos`，不覆盖原图。预览和导出共用透明素材，封面不再添加白色商品卡片。部分白色单色标志转为深色版以便在浅色背景上识别。
+```powershell
+npm run dev
+```
 
-需要 Python 和 `tools/requirements-logos.txt` 中的依赖。当前电脑已具备这些依赖；更换电脑时执行 `python -m pip install -r tools/requirements-logos.txt`。手动更新可执行 `npm run prepare:logos`。复杂照片与渐变素材使用按文件名调整的提取规则，不是通用 AI 抠图；更换为不同构图时需复核结果。微软原素材是楼体照片，改用透明四色窗格标志。
+然后打开：
+
+```text
+http://localhost:4174/
+```
+
+如果 4174 端口被占用，可以先查找进程：
+
+```powershell
+netstat -ano | findstr :4174
+```
+
+结束进程时使用正确的 Windows 参数：
+
+```powershell
+taskkill /PID <进程号> /F
+```
+
+不要使用 `taskkill /p`，其中 `/P` 不是结束进程 ID 的参数。
+
+## 网页使用流程
+
+1. 打开 `http://localhost:4174/`。
+2. 在“视频素材”区域选择背景图片或“无背景”。
+3. 选择背景音乐或“无”。选择音乐后，可以点击右侧播放按钮试听。
+4. 在“选择商品”区域搜索或筛选商品。
+5. 点击商品卡片选择商品，最多选择 10 个。
+6. 在右侧视频播放器中检查封面、商品信息、价格、Logo 和结尾 CTA。
+7. 点击“合成并下载 MP4 视频”。
+8. 等待视频合成完成，浏览器会自动下载 MP4。
+9. 页面状态区域还会提供 MP4 重下链接和 PNG 封面下载链接。
+
+## 导出视频规格
+
+- 画面比例：9:16。
+- 分辨率：1080 × 1920。
+- 帧率：24 fps。
+- 时长：根据选择的商品数量自动计算。
+- 输出格式：MP4。
+- 封面格式：PNG。
+- 输出目录：项目内的 `output/`，同时会触发浏览器下载。
+
+浏览器下载的实际保存位置取决于浏览器设置，通常是系统“下载”文件夹。如果浏览器开启了“下载前询问保存位置”，需要按浏览器提示选择。
+
+## 商品目录
+
+商品目录文件位于：
+
+```text
+public/商品目录.json
+```
+
+商品目录由 `catalog.cjs` 根据店铺商品清单生成。当前服务端从 `public/商品目录.json` 读取商品数据，包括：
+
+- 商品名称。
+- 原始商品名称。
+- 商品分类。
+- 商品价格。
+- 商品 Logo 文件名。
+- 商品标签。
+- 商品说明。
+
+如果需要重新生成商品目录，在项目根目录执行：
+
+```powershell
+node catalog.cjs
+```
+
+生成前请确认商品源文件 `店铺商品.txt` 位于项目根目录，并且使用 UTF-8 编码保存。
+
+## 素材目录
+
+所有视频素材位于：
+
+```text
+public/assets/
+```
+
+### 商品 Logo
+
+原始 Logo 位于：
+
+```text
+public/assets/*.png
+```
+
+透明处理后的 Logo 位于：
+
+```text
+public/assets/logos/
+```
+
+启动服务时会运行 `tools/prepare_logos.py`，根据原始 Logo 生成透明版本。商品目录通过 `src/logo-assets.json` 映射到透明 Logo。
+
+手动重新处理 Logo：
+
+```powershell
+npm run prepare:logos
+```
+
+### 背景图片
+
+背景图片放在：
+
+```text
+public/assets/background/
+```
+
+支持 PNG、JPG、JPEG 和 WEBP。页面启动或点击“刷新素材列表”时会自动扫描该目录。
+
+### 背景音乐
+
+背景音乐放在：
+
+```text
+public/assets/bgm/
+```
+
+支持 MP3、WAV 和 M4A。页面会自动扫描该目录，渲染时根据实际视频时长使用对应音频。
+
+### 未使用素材
+
+当前未被商品目录引用的旧图片暂时放在：
+
+```text
+public/assets/_unused/
+```
+
+这些文件没有删除，后续需要时可以移回 `public/assets/`。
 
 ## 网页上传素材
 
-视频素材区的“上传素材”支持上传背景图片（PNG/JPG/WEBP，20 MB 以内）和背景音乐（MP3/WAV/M4A，50 MB 以内）。分别保存至 `public/assets/background/`、`public/assets/bgm/`，完成后自动刷新并选用。重名文件另存，不覆盖旧素材。
+点击“上传素材”后，可以选择：
+
+- 背景图片：PNG、JPG、JPEG、WEBP，最大 20 MB。
+- 背景音乐：MP3、WAV、M4A，最大 50 MB。
+
+上传后文件分别保存至：
+
+```text
+public/assets/background/
+public/assets/bgm/
+```
+
+上传成功后页面会自动刷新素材列表并选中刚上传的素材。同名文件不会覆盖原文件，系统会自动生成新的文件名。
+
+## 手动使用 Remotion 导出
+
+导出前需要准备一个由网页导出流程生成的参数文件，例如：
+
+```text
+output/HellosAI_Promo_TIMESTAMP_props.json
+```
+
+手动导出：
+
+```powershell
+npm run render -- ShopPromoGenerator output/manual.mp4 --props=output/HellosAI_Promo_TIMESTAMP_props.json
+```
+
+## 项目结构
+
+```text
+.
+├─ public/
+│  ├─ assets/                 Logo、背景图片、BGM 和备用素材
+│  ├─ 商品目录.json            商品数据
+│  ├─ cover-layout.js          封面布局
+│  └─ cover-layout.d.ts
+├─ src/
+│  ├─ Video.tsx                视频主体组件
+│  ├─ preview.tsx              Web 预览播放器入口
+│  ├─ index.tsx                Remotion 入口
+│  ├─ renderConfig.ts          默认渲染配置
+│  ├─ selectedProducts.ts      默认商品参数
+│  └─ logo-assets.json         原始 Logo 到透明 Logo 的映射
+├─ web/
+│  └─ index.html                Web 操作页面
+├─ tools/
+│  ├─ prepare_logos.py          透明 Logo 处理脚本
+│  └─ requirements-logos.txt    Python 依赖
+├─ catalog.cjs                 生成商品目录
+├─ server.cjs                  Web 服务和 Remotion 导出服务
+├─ package.json                npm 命令和依赖
+├─ package-lock.json           npm 锁定依赖版本
+└─ remotion.config.ts          Remotion 配置
+```
+
+## 常用命令
+
+```powershell
+# 启动 Web 页面
+npm run dev
+
+# 等价的 Web 服务命令
+npm run web
+
+# 重新处理 Logo
+npm run prepare:logos
+
+# 检查服务端 JavaScript 语法
+node --check server.cjs
+
+# 检查目录生成脚本语法
+node --check catalog.cjs
+
+# 检查 TypeScript 类型
+npx.cmd tsc --noEmit
+```
+
+## GitHub 上传建议
+
+项目已经配置 `.gitignore`，默认不上传：
+
+- `node_modules/`。
+- `output/` 渲染视频、封面和参数快照。
+- Remotion 缓存和构建缓存。
+- 日志文件。
+- `.env`、证书和密钥文件。
+
+商品目录和素材可能包含店铺商品信息、价格以及宣传资源。如果仓库不准备公开，建议使用 GitHub Private Repository。
+
+## 说明
+
+- 页面预览使用真实 Remotion Player，不维护独立的假预览布局。
+- 商品 Logo、商品价格和商品文案由模板统一渲染，避免手工编辑视频时出现错位。
+- 删除或替换 Logo 后，建议重新执行 `npm run prepare:logos`，并在网页中刷新商品目录。
+- 修改 `src/Video.tsx`、`server.cjs` 或 `web/index.html` 后，需要重启 `npm run dev` 并刷新浏览器页面。
