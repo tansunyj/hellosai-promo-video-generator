@@ -453,42 +453,6 @@
       "notes": "名称、价格和库存来自原始商品清单；视频文案为模板化整理。"
     },
     {
-      "id": 27,
-      "rawTitle": "正规实付X Premium 蓝V 3个月会员丨送同时长 SuperGro lite",
-      "displayTitle": "正规实付X Premium 蓝V 3个月会员丨送同时长 Su…",
-      "category": "X",
-      "delivery": "对接",
-      "stock": "232张",
-      "price": "¥31.20",
-      "image": "X.png",
-      "label": "X · 对接",
-      "facts": [
-        "商品方案",
-        "详情清晰",
-        "按需选择"
-      ],
-      "source": "店铺商品.txt",
-      "notes": "名称、价格和库存来自原始商品清单；视频文案为模板化整理。"
-    },
-    {
-      "id": 28,
-      "rawTitle": "X Premium 6个月",
-      "displayTitle": "X Premium 6个月",
-      "category": "X",
-      "delivery": "对接",
-      "stock": "缺货",
-      "price": "¥58.50",
-      "image": "X.png",
-      "label": "X · 对接",
-      "facts": [
-        "商品方案",
-        "详情清晰",
-        "库存以页面为准"
-      ],
-      "source": "店铺商品.txt",
-      "notes": "名称、价格和库存来自原始商品清单；视频文案为模板化整理。"
-    },
-    {
       "id": 29,
       "rawTitle": "【人工发货】纸飞机 Premium 一年订阅",
       "displayTitle": "纸飞机 Premium 一年订阅",
