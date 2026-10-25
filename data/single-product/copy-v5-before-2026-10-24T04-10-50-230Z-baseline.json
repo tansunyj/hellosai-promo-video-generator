@@ -1,0 +1,7193 @@
+[
+  {
+    "id": 1,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Plus辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 2,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro 200辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 3,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "团队席位不等于个人独立订阅，权限和期限须核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用团队版，席位还没安排好？",
+      "hookSubtitle": "已经需要团队版，但还没有可用席位？",
+      "hookAnswer": "选择团队席位类商品",
+      "hookPayoff": "交付后核对席位与使用期限",
+      "offerSubtitle": "先确认加入条件，再按交付流程安排席位",
+      "offerScene": "想加入ChatGPT团队席位",
+      "offerEvidence": "先对适用条件 · 48个月方案 · 质保一个月",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "48个月方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "质保一个月",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "选择团队席位类商品",
+      "steps": [
+        "确认席位与期限",
+        "核对加入条件后下单",
+        "按交付流程核对席位"
+      ],
+      "stepDetails": [
+        "分清团队席位和个人独立订阅",
+        "确认账号、加入方式及售后范围",
+        "按约定交付，核对席位和使用周期"
+      ],
+      "ctaTitle": "席位这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询席位",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 4,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro 100辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 5,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Codex用于编程辅助",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 6,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 7,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Claude，充值这步卡住？",
+      "hookSubtitle": "想用于长文处理、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通Claude Max 20x辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 8,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Claude，充值这步卡住？",
+      "hookSubtitle": "想用于长文处理、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通Claude Max 5x辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 9,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Claude，充值这步卡住？",
+      "hookSubtitle": "想用于长文处理、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通Claude Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 10,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT plus辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 11,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "所含订阅须逐项核对，不保证免审核或长期不封号",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "ChatGPT成品号，到手先核对什么？",
+      "hookSubtitle": "想用于写作、整理资料，账号包含哪些订阅还没弄清？",
+      "hookAnswer": "ChatGPT成品号，交付后按说明登录",
+      "hookPayoff": "登录后核对账号和已含订阅权益",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想用ChatGPT Plus处理日常任务",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后核对登录及套餐权益，不保证免审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "ChatGPT成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 12,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Codex成品号，交付后按说明登录",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Codex账号用于编程辅助",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Codex成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 13,
+    "generated": {
+      "scenarioAudience": "有邮箱及相关工具需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Google，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Google",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 14,
+    "generated": {
+      "scenarioAudience": "有日常问答需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "所含订阅须逐项核对，不保证免审核或长期不封号",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Grok成品号，到手先核对什么？",
+      "hookSubtitle": "想用于日常问答，账号包含哪些订阅还没弄清？",
+      "hookAnswer": "Grok成品号，交付后按说明登录",
+      "hookPayoff": "登录后核对账号和已含订阅权益",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想用Grok Super Ultra处理日常任务",
+      "offerEvidence": "成品账号交付 · 一个月方案 · 首登质保",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后核对登录及套餐权益，不保证免审核"
+        },
+        {
+          "title": "一个月方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "首登质保",
+          "detail": "首登不等于长期质保，边界需确认"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Grok成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 15,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT PRO辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 16,
+    "generated": {
+      "scenarioAudience": "有日常问答需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Grok，充值这步卡住？",
+      "hookSubtitle": "想用于日常问答，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通Grok Super辅助日常任务",
+      "offerEvidence": "代充对接 · 周卡方案 · 质保7天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "周卡方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "质保7天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 17,
+    "generated": {
+      "scenarioAudience": "有游戏娱乐需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Steam，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Steam账号，按商品规格交付",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Steam账号用于游戏娱乐",
+      "offerEvidence": "账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Steam账号，按商品规格交付",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 18,
+    "generated": {
+      "scenarioAudience": "有游戏娱乐需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Steam，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Steam账号，按商品规格交付",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Steam账号用于游戏娱乐",
+      "offerEvidence": "账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Steam账号，按商品规格交付",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 19,
+    "generated": {
+      "scenarioAudience": "有游戏娱乐需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Steam，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Steam账号，按商品规格交付",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Steam账号用于游戏娱乐",
+      "offerEvidence": "账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Steam账号，按商品规格交付",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 20,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 22,
+    "generated": {
+      "scenarioAudience": "有日常问答需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Grok，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Grok账号，按商品规格交付",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Grok账号用于日常问答",
+      "offerEvidence": "账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Grok账号，按商品规格交付",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 23,
+    "generated": {
+      "scenarioAudience": "有外语学习需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅交付约定链接；地区、资格及兑换条件须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "多邻国兑换链接，自己的号能用吗？",
+      "hookSubtitle": "想用于外语学习，但兑换条件还没对上？",
+      "hookAnswer": "购买兑换链接，按说明兑换",
+      "hookPayoff": "兑换后核对权益是否生效",
+      "offerSubtitle": "先核对账号与兑换条件，再用交付链接操作",
+      "offerScene": "想兑换多邻国 super的对应权益",
+      "offerEvidence": "链接型交付 · 12个月方案 · 无质保须知",
+      "reasonsTitle": "这条链接，怎么用在你账号？",
+      "points": [
+        {
+          "title": "链接型交付",
+          "detail": "原清单为礼品链接，先核对兑换条件"
+        },
+        {
+          "title": "12个月方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "无质保须知",
+          "detail": "原清单明确无质保，能否接受先想清"
+        }
+      ],
+      "processTitle": "链接，具体怎么兑换？",
+      "processSubtitle": "购买兑换链接，按说明兑换",
+      "steps": [
+        "核对兑换条件",
+        "下单获取链接",
+        "按说明兑换并验收"
+      ],
+      "stepDetails": [
+        "确认地区、账号和兑换资格是否适用",
+        "确认规格、期限和售后后购买链接",
+        "按交付说明操作，核对权益和有效期"
+      ],
+      "ctaTitle": "兑换这一步，先拿对链接。",
+      "ctaButton": "看主页简介 · 了解兑换方案",
+      "ctaNote": "说明你的账号情况，先确认链接是否适用",
+      "disclaimer": "原清单注明无质保；参考价格、条件与交付以商品页面为准"
+    }
+  },
+  {
+    "id": 24,
+    "generated": {
+      "scenarioAudience": "有学习、办公需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅交付约定链接；地区、资格及兑换条件须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Gemini兑换链接，自己的号能用吗？",
+      "hookSubtitle": "想用于学习、办公，但兑换条件还没对上？",
+      "hookAnswer": "购买兑换链接，按说明兑换",
+      "hookPayoff": "兑换后核对权益是否生效",
+      "offerSubtitle": "先核对账号与兑换条件，再用交付链接操作",
+      "offerScene": "想兑换Gemini Pro的对应权益",
+      "offerEvidence": "链接型交付 · 18个月方案 · 售后先问清",
+      "reasonsTitle": "这条链接，怎么用在你账号？",
+      "points": [
+        {
+          "title": "链接型交付",
+          "detail": "原清单为兑换链接，先核对适用条件"
+        },
+        {
+          "title": "18个月方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "链接，具体怎么兑换？",
+      "processSubtitle": "购买兑换链接，按说明兑换",
+      "steps": [
+        "核对兑换条件",
+        "下单获取链接",
+        "按说明兑换并验收"
+      ],
+      "stepDetails": [
+        "确认地区、账号和兑换资格是否适用",
+        "确认规格、期限和售后后购买链接",
+        "按交付说明操作，核对权益和有效期"
+      ],
+      "ctaTitle": "兑换这一步，先拿对链接。",
+      "ctaButton": "看主页简介 · 了解兑换方案",
+      "ctaNote": "说明你的账号情况，先确认链接是否适用",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 25,
+    "generated": {
+      "scenarioAudience": "有邮箱及相关工具需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Google，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Google账号，按商品规格交付",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Google账号用于邮箱及相关工具",
+      "offerEvidence": "账号交付 · 2026年方案 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "2026年方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Google账号，按商品规格交付",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 26,
+    "generated": {
+      "scenarioAudience": "有学习、办公需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Gemini注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Gemini用于学习、办公",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 29,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通电报，办理方式没弄懂？",
+      "hookSubtitle": "想开通会员，还不清楚这款的办理方式？",
+      "hookAnswer": "联系店铺确认这款订阅如何交付",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "原清单未明确交付形式，不直接当代充或成品号宣传",
+      "offerScene": "想开通电报",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "联系店铺确认这款订阅如何交付",
+      "steps": [
+        "说明目标套餐",
+        "确认交付方式后下单",
+        "按说明办理并验收"
+      ],
+      "stepDetails": [
+        "说明要开通的会员或套餐",
+        "先确认是充值、兑换还是账号交付",
+        "按确认后的交付方式核对实际权益"
+      ],
+      "ctaTitle": "开通这一步，先确认办理方式。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 30,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅按真实资格办理，不代替审核或保证认证成功",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用优惠方案，资格条件符合吗？",
+      "hookSubtitle": "资格或认证条件没确认，不能直接当会员买",
+      "hookAnswer": "先核对资格类商品的办理范围",
+      "hookPayoff": "确认资格有效后，按商品说明操作",
+      "offerSubtitle": "只按真实资格与商品规则办理，不承诺绕过审核",
+      "offerScene": "想使用教育的资格类方案",
+      "offerEvidence": "账号交付 · 1年方案 · 首登质保",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "1年方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "首登质保",
+          "detail": "首登不等于长期质保，边界需确认"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "先核对资格类商品的办理范围",
+      "steps": [
+        "说明真实资格",
+        "确认适用条件",
+        "按规则办理或兑换"
+      ],
+      "stepDetails": [
+        "如实说明账号和资格情况",
+        "确认是否符合该商品的条件",
+        "不得冒用资格或将资格误当会员"
+      ],
+      "ctaTitle": "符合条件，再办理对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 31,
+    "generated": {
+      "scenarioAudience": "有邮箱及相关工具需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅按真实资格办理，不代替审核或保证认证成功",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用优惠方案，资格条件符合吗？",
+      "hookSubtitle": "资格或认证条件没确认，不能直接当会员买",
+      "hookAnswer": "先核对资格类商品的办理范围",
+      "hookPayoff": "确认资格有效后，按商品说明操作",
+      "offerSubtitle": "只按真实资格与商品规则办理，不承诺绕过审核",
+      "offerScene": "想使用Google的资格类方案",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先核对资格类商品的办理范围",
+      "steps": [
+        "说明真实资格",
+        "确认适用条件",
+        "按规则办理或兑换"
+      ],
+      "stepDetails": [
+        "如实说明账号和资格情况",
+        "确认是否符合该商品的条件",
+        "不得冒用资格或将资格误当会员"
+      ],
+      "ctaTitle": "符合条件，再办理对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 32,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅按真实资格办理，不代替审核或保证认证成功",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用优惠方案，资格条件符合吗？",
+      "hookSubtitle": "资格或认证条件没确认，不能直接当会员买",
+      "hookAnswer": "先核对资格类商品的办理范围",
+      "hookPayoff": "确认资格有效后，按商品说明操作",
+      "offerSubtitle": "只按真实资格与商品规则办理，不承诺绕过审核",
+      "offerScene": "想使用教育的资格类方案",
+      "offerEvidence": "先对适用条件 · 1年方案 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "1年方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先核对资格类商品的办理范围",
+      "steps": [
+        "说明真实资格",
+        "确认适用条件",
+        "按规则办理或兑换"
+      ],
+      "stepDetails": [
+        "如实说明账号和资格情况",
+        "确认是否符合该商品的条件",
+        "不得冒用资格或将资格误当会员"
+      ],
+      "ctaTitle": "符合条件，再办理对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 33,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "团队席位不等于个人独立订阅，权限和期限须核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用团队版，席位还没安排好？",
+      "hookSubtitle": "已经需要团队版，但还没有可用席位？",
+      "hookAnswer": "选择团队席位类商品",
+      "hookPayoff": "交付后核对席位与使用期限",
+      "offerSubtitle": "先确认加入条件，再按交付流程安排席位",
+      "offerScene": "想加入ChatGPT团队席位",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "选择团队席位类商品",
+      "steps": [
+        "确认席位与期限",
+        "核对加入条件后下单",
+        "按交付流程核对席位"
+      ],
+      "stepDetails": [
+        "分清团队席位和个人独立订阅",
+        "确认账号、加入方式及售后范围",
+        "按约定交付，核对席位和使用周期"
+      ],
+      "ctaTitle": "席位这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询席位",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 34,
+    "generated": {
+      "scenarioAudience": "有邮箱及相关工具需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "团队席位不等于个人独立订阅，权限和期限须核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用团队版，席位还没安排好？",
+      "hookSubtitle": "已经需要团队版，但还没有可用席位？",
+      "hookAnswer": "选择团队席位类商品",
+      "hookPayoff": "交付后核对席位与使用期限",
+      "offerSubtitle": "先确认加入条件，再按交付流程安排席位",
+      "offerScene": "想加入Google团队席位",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "选择团队席位类商品",
+      "steps": [
+        "确认席位与期限",
+        "核对加入条件后下单",
+        "按交付流程核对席位"
+      ],
+      "stepDetails": [
+        "分清团队席位和个人独立订阅",
+        "确认账号、加入方式及售后范围",
+        "按约定交付，核对席位和使用周期"
+      ],
+      "ctaTitle": "席位这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询席位",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 35,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "邮箱注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册邮箱用于自己的日常任务",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 36,
+    "generated": {
+      "scenarioAudience": "有邮箱及相关工具需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Google，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Google",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 37,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用邮箱，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用邮箱",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 38,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用邮箱，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用邮箱",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 质保1天",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保1天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 39,
+    "generated": {
+      "scenarioAudience": "有学习、办公需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "所含订阅须逐项核对，不保证免审核或长期不封号",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Gemini成品号，到手先核对什么？",
+      "hookSubtitle": "想用于学习、办公，账号包含哪些订阅还没弄清？",
+      "hookAnswer": "Gemini成品号，交付后按说明登录",
+      "hookPayoff": "登录后核对账号和已含订阅权益",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想用Gemini Pro处理日常任务",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后核对登录及套餐权益，不保证免审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Gemini成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 40,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用邮箱，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用邮箱",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 41,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用邮箱，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "邮箱账号，按商品规格交付",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备邮箱账号用于自己的日常任务",
+      "offerEvidence": "账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "邮箱账号，按商品规格交付",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 42,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用ChatGPT，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "ChatGPT成品号，交付后按说明登录",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备ChatGPT账号用于写作、整理资料",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "ChatGPT成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 43,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Codex用于编程辅助",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 44,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 45,
+    "generated": {
+      "scenarioAudience": "有日常问答需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Grok，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Grok成品号，交付后按说明登录",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Grok账号用于日常问答",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Grok成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 46,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用ChatGPT，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用ChatGPT",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 47,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用账号，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "账号成品号，交付后按说明登录",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备账号账号用于自己的日常任务",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "账号成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 48,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Codex用于编程辅助",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 49,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Codex用于编程辅助",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 50,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Codex用于编程辅助",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 51,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Claude注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Claude用于长文处理、整理资料",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 52,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "接马注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册接马用于自己的日常任务",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 53,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 54,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 55,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 56,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 57,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 58,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 59,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 60,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Plus辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 61,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Claude，办理方式没弄懂？",
+      "hookSubtitle": "想开通会员，还不清楚这款的办理方式？",
+      "hookAnswer": "联系店铺确认这款订阅如何交付",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "原清单未明确交付形式，不直接当代充或成品号宣传",
+      "offerScene": "想开通Claude",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "联系店铺确认这款订阅如何交付",
+      "steps": [
+        "说明目标套餐",
+        "确认交付方式后下单",
+        "按说明办理并验收"
+      ],
+      "stepDetails": [
+        "说明要开通的会员或套餐",
+        "先确认是充值、兑换还是账号交付",
+        "按确认后的交付方式核对实际权益"
+      ],
+      "ctaTitle": "开通这一步，先确认办理方式。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 62,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "邮箱注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册邮箱用于自己的日常任务",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 63,
+    "generated": {
+      "scenarioAudience": "有邮箱及相关工具需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "团队席位不等于个人独立订阅，权限和期限须核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用团队版，席位还没安排好？",
+      "hookSubtitle": "已经需要团队版，但还没有可用席位？",
+      "hookAnswer": "选择团队席位类商品",
+      "hookPayoff": "交付后核对席位与使用期限",
+      "offerSubtitle": "先确认加入条件，再按交付流程安排席位",
+      "offerScene": "想加入Google团队席位",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "选择团队席位类商品",
+      "steps": [
+        "确认席位与期限",
+        "核对加入条件后下单",
+        "按交付流程核对席位"
+      ],
+      "stepDetails": [
+        "分清团队席位和个人独立订阅",
+        "确认账号、加入方式及售后范围",
+        "按约定交付，核对席位和使用周期"
+      ],
+      "ctaTitle": "席位这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询席位",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 64,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 65,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "邮箱注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册邮箱用于自己的日常任务",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 66,
+    "generated": {
+      "scenarioAudience": "有邮箱及相关工具需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "团队席位不等于个人独立订阅，权限和期限须核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用团队版，席位还没安排好？",
+      "hookSubtitle": "已经需要团队版，但还没有可用席位？",
+      "hookAnswer": "选择团队席位类商品",
+      "hookPayoff": "交付后核对席位与使用期限",
+      "offerSubtitle": "先确认加入条件，再按交付流程安排席位",
+      "offerScene": "想加入Google团队席位",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "选择团队席位类商品",
+      "steps": [
+        "确认席位与期限",
+        "核对加入条件后下单",
+        "按交付流程核对席位"
+      ],
+      "stepDetails": [
+        "分清团队席位和个人独立订阅",
+        "确认账号、加入方式及售后范围",
+        "按约定交付，核对席位和使用周期"
+      ],
+      "ctaTitle": "席位这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询席位",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 67,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Claude，充值这步卡住？",
+      "hookSubtitle": "想用于长文处理、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通Claude Max 5x辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 68,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Codex，充值这步卡住？",
+      "hookSubtitle": "想用于编程辅助，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通Codex辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 69,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Codex，充值这步卡住？",
+      "hookSubtitle": "想用于编程辅助，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通Codex辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 70,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT辅助日常任务",
+      "offerEvidence": "代充对接 · 1个月方案 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "1个月方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 71,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Plus辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 72,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro100辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 73,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Plus辅助日常任务",
+      "offerEvidence": "代充对接 · 1个月方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "1个月方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 74,
+    "generated": {
+      "scenarioAudience": "有学习、办公需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅交付约定链接；地区、资格及兑换条件须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Gemini兑换链接，自己的号能用吗？",
+      "hookSubtitle": "想用于学习、办公，但兑换条件还没对上？",
+      "hookAnswer": "购买兑换链接，按说明兑换",
+      "hookPayoff": "兑换后核对权益是否生效",
+      "offerSubtitle": "先核对账号与兑换条件，再用交付链接操作",
+      "offerScene": "想兑换Gemini pro的对应权益",
+      "offerEvidence": "链接型交付 · 18个月方案 · 售后先问清",
+      "reasonsTitle": "这条链接，怎么用在你账号？",
+      "points": [
+        {
+          "title": "链接型交付",
+          "detail": "原清单为兑换链接，先核对适用条件"
+        },
+        {
+          "title": "18个月方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "链接，具体怎么兑换？",
+      "processSubtitle": "购买兑换链接，按说明兑换",
+      "steps": [
+        "核对兑换条件",
+        "下单获取链接",
+        "按说明兑换并验收"
+      ],
+      "stepDetails": [
+        "确认地区、账号和兑换资格是否适用",
+        "确认规格、期限和售后后购买链接",
+        "按交付说明操作，核对权益和有效期"
+      ],
+      "ctaTitle": "兑换这一步，先拿对链接。",
+      "ctaButton": "看主页简介 · 了解兑换方案",
+      "ctaNote": "说明你的账号情况，先确认链接是否适用",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 75,
+    "generated": {
+      "scenarioAudience": "有学习、办公需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅交付约定链接；地区、资格及兑换条件须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Gemini兑换链接，自己的号能用吗？",
+      "hookSubtitle": "想用于学习、办公，但兑换条件还没对上？",
+      "hookAnswer": "购买兑换链接，按说明兑换",
+      "hookPayoff": "兑换后核对权益是否生效",
+      "offerSubtitle": "先核对账号与兑换条件，再用交付链接操作",
+      "offerScene": "想兑换Gemini pro的对应权益",
+      "offerEvidence": "链接型交付 · 18个月方案 · 售后先问清",
+      "reasonsTitle": "这条链接，怎么用在你账号？",
+      "points": [
+        {
+          "title": "链接型交付",
+          "detail": "原清单为兑换链接，先核对适用条件"
+        },
+        {
+          "title": "18个月方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "链接，具体怎么兑换？",
+      "processSubtitle": "购买兑换链接，按说明兑换",
+      "steps": [
+        "核对兑换条件",
+        "下单获取链接",
+        "按说明兑换并验收"
+      ],
+      "stepDetails": [
+        "确认地区、账号和兑换资格是否适用",
+        "确认规格、期限和售后后购买链接",
+        "按交付说明操作，核对权益和有效期"
+      ],
+      "ctaTitle": "兑换这一步，先拿对链接。",
+      "ctaButton": "看主页简介 · 了解兑换方案",
+      "ctaNote": "说明你的账号情况，先确认链接是否适用",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 76,
+    "generated": {
+      "scenarioAudience": "有外语学习需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "所含订阅须逐项核对，不保证免审核或长期不封号",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "多邻国成品号，到手先核对什么？",
+      "hookSubtitle": "想用于外语学习，账号包含哪些订阅还没弄清？",
+      "hookAnswer": "多邻国账号，按商品规格交付",
+      "hookPayoff": "登录后核对账号和已含订阅权益",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想用多邻国 Super处理日常任务",
+      "offerEvidence": "账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "账号交付",
+          "detail": "交付后核对登录及套餐权益，不保证免审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "多邻国账号，按商品规格交付",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 77,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用ChatGPT，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用ChatGPT",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 78,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用邮箱，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用邮箱",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 79,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用邮箱，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用邮箱",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 80,
+    "generated": {
+      "scenarioAudience": "有邮箱及相关工具需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Google，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Google账号，按商品规格交付",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Google账号用于邮箱及相关工具",
+      "offerEvidence": "账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Google账号，按商品规格交付",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 81,
+    "generated": {
+      "scenarioAudience": "有学习、办公需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Gemini，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Gemini",
+      "offerEvidence": "先对适用条件 · 18个月方案 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "18个月方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 82,
+    "generated": {
+      "scenarioAudience": "有学习、办公需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅交付约定链接；地区、资格及兑换条件须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Gemini兑换链接，自己的号能用吗？",
+      "hookSubtitle": "想用于学习、办公，但兑换条件还没对上？",
+      "hookAnswer": "购买兑换链接，按说明兑换",
+      "hookPayoff": "兑换后核对权益是否生效",
+      "offerSubtitle": "先核对账号与兑换条件，再用交付链接操作",
+      "offerScene": "想兑换Gemini pro的对应权益",
+      "offerEvidence": "链接型交付 · 18个月方案 · 售后先问清",
+      "reasonsTitle": "这条链接，怎么用在你账号？",
+      "points": [
+        {
+          "title": "链接型交付",
+          "detail": "原清单为兑换链接，先核对适用条件"
+        },
+        {
+          "title": "18个月方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "链接，具体怎么兑换？",
+      "processSubtitle": "购买兑换链接，按说明兑换",
+      "steps": [
+        "核对兑换条件",
+        "下单获取链接",
+        "按说明兑换并验收"
+      ],
+      "stepDetails": [
+        "确认地区、账号和兑换资格是否适用",
+        "确认规格、期限和售后后购买链接",
+        "按交付说明操作，核对权益和有效期"
+      ],
+      "ctaTitle": "兑换这一步，先拿对链接。",
+      "ctaButton": "看主页简介 · 了解兑换方案",
+      "ctaNote": "说明你的账号情况，先确认链接是否适用",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 83,
+    "generated": {
+      "scenarioAudience": "有学习、办公需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Gemini，办理方式没弄懂？",
+      "hookSubtitle": "想开通会员，还不清楚这款的办理方式？",
+      "hookAnswer": "联系店铺确认这款订阅如何交付",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "原清单未明确交付形式，不直接当代充或成品号宣传",
+      "offerScene": "想开通Gemini Pro",
+      "offerEvidence": "先对适用条件 · 18个月方案 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "18个月方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "联系店铺确认这款订阅如何交付",
+      "steps": [
+        "说明目标套餐",
+        "确认交付方式后下单",
+        "按说明办理并验收"
+      ],
+      "stepDetails": [
+        "说明要开通的会员或套餐",
+        "先确认是充值、兑换还是账号交付",
+        "按确认后的交付方式核对实际权益"
+      ],
+      "ctaTitle": "开通这一步，先确认办理方式。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 84,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 85,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 86,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 质保25天",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保25天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 87,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，办理方式没弄懂？",
+      "hookSubtitle": "想开通会员，还不清楚这款的办理方式？",
+      "hookAnswer": "联系店铺确认这款订阅如何交付",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "原清单未明确交付形式，不直接当代充或成品号宣传",
+      "offerScene": "想开通ChatGPT Pro",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "联系店铺确认这款订阅如何交付",
+      "steps": [
+        "说明目标套餐",
+        "确认交付方式后下单",
+        "按说明办理并验收"
+      ],
+      "stepDetails": [
+        "说明要开通的会员或套餐",
+        "先确认是充值、兑换还是账号交付",
+        "按确认后的交付方式核对实际权益"
+      ],
+      "ctaTitle": "开通这一步，先确认办理方式。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 88,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用ChatGPT，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用ChatGPT",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 89,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT pro辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 90,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Codex用于编程辅助",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 91,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Plus辅助日常任务",
+      "offerEvidence": "代充对接 · 1个月方案 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "1个月方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 92,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro 100辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 93,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，办理方式没弄懂？",
+      "hookSubtitle": "想开通会员，还不清楚这款的办理方式？",
+      "hookAnswer": "联系店铺确认这款订阅如何交付",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "原清单未明确交付形式，不直接当代充或成品号宣传",
+      "offerScene": "想开通ChatGPT Pro200",
+      "offerEvidence": "先对适用条件 · 1个月方案 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "1个月方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "联系店铺确认这款订阅如何交付",
+      "steps": [
+        "说明目标套餐",
+        "确认交付方式后下单",
+        "按说明办理并验收"
+      ],
+      "stepDetails": [
+        "说明要开通的会员或套餐",
+        "先确认是充值、兑换还是账号交付",
+        "按确认后的交付方式核对实际权益"
+      ],
+      "ctaTitle": "开通这一步，先确认办理方式。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 94,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 95,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Codex用于编程辅助",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 96,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用邮箱，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用邮箱",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 97,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用邮箱，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用邮箱",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 98,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用邮箱，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用邮箱",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 99,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用邮箱，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用邮箱",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 100,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Codex，充值这步卡住？",
+      "hookSubtitle": "想用于编程辅助，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通Codex Pro 200辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 101,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，办理方式没弄懂？",
+      "hookSubtitle": "想开通会员，还不清楚这款的办理方式？",
+      "hookAnswer": "联系店铺确认这款订阅如何交付",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "原清单未明确交付形式，不直接当代充或成品号宣传",
+      "offerScene": "想开通ChatGPT Plus",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "联系店铺确认这款订阅如何交付",
+      "steps": [
+        "说明目标套餐",
+        "确认交付方式后下单",
+        "按说明办理并验收"
+      ],
+      "stepDetails": [
+        "说明要开通的会员或套餐",
+        "先确认是充值、兑换还是账号交付",
+        "按确认后的交付方式核对实际权益"
+      ],
+      "ctaTitle": "开通这一步，先确认办理方式。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 102,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Claude，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Claude账号，按商品规格交付",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Claude账号用于长文处理、整理资料",
+      "offerEvidence": "账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Claude账号，按商品规格交付",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 103,
+    "generated": {
+      "scenarioAudience": "有日常问答需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Grok，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Grok成品号，交付后按说明登录",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Grok账号用于日常问答",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Grok成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 104,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Claude，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Claude",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 105,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Claude，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Claude",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 106,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Claude，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Claude成品号，交付后按说明登录",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Claude账号用于长文处理、整理资料",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Claude成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 107,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用KYC，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "KYC成品号，交付后按说明登录",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备KYC账号用于自己的日常任务",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "KYC成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 108,
+    "generated": {
+      "scenarioAudience": "有日常问答需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Grok，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Grok",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 109,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "所含订阅须逐项核对，不保证免审核或长期不封号",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Cursor成品号，到手先核对什么？",
+      "hookSubtitle": "想用于编程辅助，账号包含哪些订阅还没弄清？",
+      "hookAnswer": "Cursor成品号，交付后按说明登录",
+      "hookPayoff": "登录后核对账号和已含订阅权益",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想用Cursor ultra处理日常任务",
+      "offerEvidence": "成品账号交付 · 月卡方案 · 质保28天",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后核对登录及套餐权益，不保证免审核"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保28天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Cursor成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 110,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "所含订阅须逐项核对，不保证免审核或长期不封号",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Cursor成品号，到手先核对什么？",
+      "hookSubtitle": "想用于编程辅助，账号包含哪些订阅还没弄清？",
+      "hookAnswer": "Cursor成品号，交付后按说明登录",
+      "hookPayoff": "登录后核对账号和已含订阅权益",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想用Cursor Pro处理日常任务",
+      "offerEvidence": "成品账号交付 · 月卡方案 · 质保25天",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后核对登录及套餐权益，不保证免审核"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保25天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Cursor成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 111,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用账号，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用账号",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 112,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通账号，办理方式没弄懂？",
+      "hookSubtitle": "想开通会员，还不清楚这款的办理方式？",
+      "hookAnswer": "联系店铺确认这款订阅如何交付",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "原清单未明确交付形式，不直接当代充或成品号宣传",
+      "offerScene": "想开通账号",
+      "offerEvidence": "先对适用条件 · 月卡方案 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "联系店铺确认这款订阅如何交付",
+      "steps": [
+        "说明目标套餐",
+        "确认交付方式后下单",
+        "按说明办理并验收"
+      ],
+      "stepDetails": [
+        "说明要开通的会员或套餐",
+        "先确认是充值、兑换还是账号交付",
+        "按确认后的交付方式核对实际权益"
+      ],
+      "ctaTitle": "开通这一步，先确认办理方式。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 113,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用账号，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用账号",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 114,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 115,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 116,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Codex用于编程辅助",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 117,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "所含订阅须逐项核对，不保证免审核或长期不封号",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "账号成品号，到手先核对什么？",
+      "hookSubtitle": "想用于自己的日常任务，账号包含哪些订阅还没弄清？",
+      "hookAnswer": "账号成品号，交付后按说明登录",
+      "hookPayoff": "登录后核对账号和已含订阅权益",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想用账号 Plus处理日常任务",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后核对登录及套餐权益，不保证免审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "账号成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 118,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Claude注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Claude用于长文处理、整理资料",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 119,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Claude，充值这步卡住？",
+      "hookSubtitle": "想用于长文处理、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通Claude Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 120,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT pro辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 121,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅按真实资格办理，不代替审核或保证认证成功",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用优惠方案，资格条件符合吗？",
+      "hookSubtitle": "资格或认证条件没确认，不能直接当会员买",
+      "hookAnswer": "先核对资格类商品的办理范围",
+      "hookPayoff": "确认资格有效后，按商品说明操作",
+      "offerSubtitle": "只按真实资格与商品规则办理，不承诺绕过审核",
+      "offerScene": "想使用Claude的资格类方案",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先核对资格类商品的办理范围",
+      "steps": [
+        "说明真实资格",
+        "确认适用条件",
+        "按规则办理或兑换"
+      ],
+      "stepDetails": [
+        "如实说明账号和资格情况",
+        "确认是否符合该商品的条件",
+        "不得冒用资格或将资格误当会员"
+      ],
+      "ctaTitle": "符合条件，再办理对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 122,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅按真实资格办理，不代替审核或保证认证成功",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用优惠方案，资格条件符合吗？",
+      "hookSubtitle": "资格或认证条件没确认，不能直接当会员买",
+      "hookAnswer": "先核对资格类商品的办理范围",
+      "hookPayoff": "确认资格有效后，按商品说明操作",
+      "offerSubtitle": "只按真实资格与商品规则办理，不承诺绕过审核",
+      "offerScene": "想使用Claude的资格类方案",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先核对资格类商品的办理范围",
+      "steps": [
+        "说明真实资格",
+        "确认适用条件",
+        "按规则办理或兑换"
+      ],
+      "stepDetails": [
+        "如实说明账号和资格情况",
+        "确认是否符合该商品的条件",
+        "不得冒用资格或将资格误当会员"
+      ],
+      "ctaTitle": "符合条件，再办理对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 123,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Codex，充值这步卡住？",
+      "hookSubtitle": "想用于编程辅助，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通Codex Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 124,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "所含订阅须逐项核对，不保证免审核或长期不封号",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex成品号，到手先核对什么？",
+      "hookSubtitle": "想用于编程辅助，账号包含哪些订阅还没弄清？",
+      "hookAnswer": "Codex成品号，交付后按说明登录",
+      "hookPayoff": "登录后核对账号和已含订阅权益",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想用Codex Plus处理日常任务",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 质保25天",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后核对登录及套餐权益，不保证免审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保25天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Codex成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 125,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅按真实资格办理，不代替审核或保证认证成功",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用优惠方案，资格条件符合吗？",
+      "hookSubtitle": "资格或认证条件没确认，不能直接当会员买",
+      "hookAnswer": "先核对资格类商品的办理范围",
+      "hookPayoff": "确认资格有效后，按商品说明操作",
+      "offerSubtitle": "只按真实资格与商品规则办理，不承诺绕过审核",
+      "offerScene": "想使用Claude的资格类方案",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 首登质保",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后核对登录及套餐权益，不保证免审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "首登质保",
+          "detail": "首登不等于长期质保，边界需确认"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "先核对资格类商品的办理范围",
+      "steps": [
+        "说明真实资格",
+        "确认适用条件",
+        "按规则办理或兑换"
+      ],
+      "stepDetails": [
+        "如实说明账号和资格情况",
+        "确认是否符合该商品的条件",
+        "不得冒用资格或将资格误当会员"
+      ],
+      "ctaTitle": "符合条件，再办理对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 126,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅按真实资格办理，不代替审核或保证认证成功",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用优惠方案，资格条件符合吗？",
+      "hookSubtitle": "资格或认证条件没确认，不能直接当会员买",
+      "hookAnswer": "先核对资格类商品的办理范围",
+      "hookPayoff": "确认资格有效后，按商品说明操作",
+      "offerSubtitle": "只按真实资格与商品规则办理，不承诺绕过审核",
+      "offerScene": "想使用Codex的资格类方案",
+      "offerEvidence": "成品账号交付 · 4个月方案 · 质保3个月",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后核对登录及套餐权益，不保证免审核"
+        },
+        {
+          "title": "4个月方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "质保3个月",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "先核对资格类商品的办理范围",
+      "steps": [
+        "说明真实资格",
+        "确认适用条件",
+        "按规则办理或兑换"
+      ],
+      "stepDetails": [
+        "如实说明账号和资格情况",
+        "确认是否符合该商品的条件",
+        "不得冒用资格或将资格误当会员"
+      ],
+      "ctaTitle": "符合条件，再办理对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 127,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用邮箱，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用邮箱",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 质保3天",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保3天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 128,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用账号，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用账号",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 129,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Plus辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 130,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 规格与范围 · 质保30天",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "质保30天",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 131,
+    "generated": {
+      "scenarioAudience": "有长文处理、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通Claude，办理方式没弄懂？",
+      "hookSubtitle": "想开通会员，还不清楚这款的办理方式？",
+      "hookAnswer": "联系店铺确认这款订阅如何交付",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "原清单未明确交付形式，不直接当代充或成品号宣传",
+      "offerScene": "想开通Claude pro",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "联系店铺确认这款订阅如何交付",
+      "steps": [
+        "说明目标套餐",
+        "确认交付方式后下单",
+        "按说明办理并验收"
+      ],
+      "stepDetails": [
+        "说明要开通的会员或套餐",
+        "先确认是充值、兑换还是账号交付",
+        "按确认后的交付方式核对实际权益"
+      ],
+      "ctaTitle": "开通这一步，先确认办理方式。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 132,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 133,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 134,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 135,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT PRO辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 质保一个月",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "质保一个月",
+          "detail": "原清单包含质保服务；具体范围见详情"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 136,
+    "generated": {
+      "scenarioAudience": "有学习、办公需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Gemini，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Gemini",
+      "offerEvidence": "先对适用条件 · 18个月方案 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "18个月方案",
+          "detail": "让套餐周期，匹配你的使用计划"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 137,
+    "generated": {
+      "scenarioAudience": "有邮箱及相关工具需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Google注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Google用于邮箱及相关工具",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 138,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Codex用于编程辅助",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 139,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Codex用于编程辅助",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 140,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅限约定项目的收码环节，不代替实名、刷脸或身份审核",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "Codex注册，卡在收验证码？",
+      "hookSubtitle": "如果正卡在收码这一步，先确认支持项目",
+      "hookAnswer": "对接这款验证服务，先核对收码范围",
+      "hookPayoff": "仅办理收码环节，不代替身份审核",
+      "offerSubtitle": "仅按约定项目收码，不代办身份审核",
+      "offerScene": "想注册Codex用于编程辅助",
+      "offerEvidence": "注册收码 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "接码解决什么，不解决什么？",
+      "points": [
+        {
+          "title": "注册收码",
+          "detail": "确认支持项目后办理收码，不含身份审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认支持项目、地区、次数和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "接码，具体怎么办理？",
+      "processSubtitle": "对接这款验证服务，先核对收码范围",
+      "steps": [
+        "确认注册项目",
+        "核对接码条件并下单",
+        "按说明完成收码"
+      ],
+      "stepDetails": [
+        "说明要注册哪个服务、用于哪一步",
+        "确认支持项目、地区、次数和有效期",
+        "按约定流程操作；身份审核另行处理"
+      ],
+      "ctaTitle": "卡在收码，就对接接码服务。",
+      "ctaButton": "看主页简介 · 咨询接码",
+      "ctaNote": "先说注册项目，再确认能否接码",
+      "disclaimer": "注册验证服务不含会员订阅；价格、适用范围以商品页面为准"
+    }
+  },
+  {
+    "id": 141,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT plus辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 142,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 143,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro100辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 144,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro200辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 145,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅对接约定的充值；账号适用条件、渠道和售后须先核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想开通ChatGPT，充值这步卡住？",
+      "hookSubtitle": "想用于写作、整理资料，却卡在订阅办理？",
+      "hookAnswer": "这款充值服务，先确认能否承接",
+      "hookPayoff": "完成后在账号内核对套餐和有效期",
+      "offerSubtitle": "核对套餐与账号适用条件，再对接约定的充值",
+      "offerScene": "想开通ChatGPT Pro辅助日常任务",
+      "offerEvidence": "代充对接 · 月卡方案 · 售后先问清",
+      "reasonsTitle": "代充这一步，先说清。",
+      "points": [
+        {
+          "title": "代充对接",
+          "detail": "先确认账号与渠道，按约定办理充值"
+        },
+        {
+          "title": "月卡方案",
+          "detail": "按月安排使用，先从自己的需求出发"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "代充，具体怎么做？",
+      "processSubtitle": "这款充值服务，先确认能否承接",
+      "steps": [
+        "选套餐并核对账号",
+        "确认渠道后下单",
+        "对接充值并验收"
+      ],
+      "stepDetails": [
+        "说明目标套餐，先确认账号是否适用",
+        "确认渠道、费用、期限和售后再下单",
+        "按约定完成对接，核对订阅状态与有效期"
+      ],
+      "ctaTitle": "充值这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询代充",
+      "ctaNote": "说清套餐和账号情况，先确认能否代充",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 146,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 147,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "团队席位不等于个人独立订阅，权限和期限须核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用团队版，席位还没安排好？",
+      "hookSubtitle": "已经需要团队版，但还没有可用席位？",
+      "hookAnswer": "选择团队席位类商品",
+      "hookPayoff": "交付后核对席位与使用期限",
+      "offerSubtitle": "先确认加入条件，再按交付流程安排席位",
+      "offerScene": "想加入ChatGPT团队席位",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "选择团队席位类商品",
+      "steps": [
+        "确认席位与期限",
+        "核对加入条件后下单",
+        "按交付流程核对席位"
+      ],
+      "stepDetails": [
+        "分清团队席位和个人独立订阅",
+        "确认账号、加入方式及售后范围",
+        "按约定交付，核对席位和使用周期"
+      ],
+      "ctaTitle": "席位这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询席位",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 148,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "团队席位不等于个人独立订阅，权限和期限须核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用团队版，席位还没安排好？",
+      "hookSubtitle": "已经需要团队版，但还没有可用席位？",
+      "hookAnswer": "选择团队席位类商品",
+      "hookPayoff": "交付后核对席位与使用期限",
+      "offerSubtitle": "先确认加入条件，再按交付流程安排席位",
+      "offerScene": "想加入ChatGPT团队席位",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "选择团队席位类商品",
+      "steps": [
+        "确认席位与期限",
+        "核对加入条件后下单",
+        "按交付流程核对席位"
+      ],
+      "stepDetails": [
+        "分清团队席位和个人独立订阅",
+        "确认账号、加入方式及售后范围",
+        "按约定交付，核对席位和使用周期"
+      ],
+      "ctaTitle": "席位这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询席位",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 149,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "团队席位不等于个人独立订阅，权限和期限须核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用团队版，席位还没安排好？",
+      "hookSubtitle": "已经需要团队版，但还没有可用席位？",
+      "hookAnswer": "选择团队席位类商品",
+      "hookPayoff": "交付后核对席位与使用期限",
+      "offerSubtitle": "先确认加入条件，再按交付流程安排席位",
+      "offerScene": "想加入ChatGPT团队席位",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "选择团队席位类商品",
+      "steps": [
+        "确认席位与期限",
+        "核对加入条件后下单",
+        "按交付流程核对席位"
+      ],
+      "stepDetails": [
+        "分清团队席位和个人独立订阅",
+        "确认账号、加入方式及售后范围",
+        "按约定交付，核对席位和使用周期"
+      ],
+      "ctaTitle": "席位这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询席位",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 150,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "团队席位不等于个人独立订阅，权限和期限须核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用团队版，席位还没安排好？",
+      "hookSubtitle": "已经需要团队版，但还没有可用席位？",
+      "hookAnswer": "选择团队席位类商品",
+      "hookPayoff": "交付后核对席位与使用期限",
+      "offerSubtitle": "先确认加入条件，再按交付流程安排席位",
+      "offerScene": "想加入ChatGPT团队席位",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "选择团队席位类商品",
+      "steps": [
+        "确认席位与期限",
+        "核对加入条件后下单",
+        "按交付流程核对席位"
+      ],
+      "stepDetails": [
+        "分清团队席位和个人独立订阅",
+        "确认账号、加入方式及售后范围",
+        "按约定交付，核对席位和使用周期"
+      ],
+      "ctaTitle": "席位这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询席位",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 151,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "所含订阅须逐项核对，不保证免审核或长期不封号",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "ChatGPT成品号，到手先核对什么？",
+      "hookSubtitle": "想用于写作、整理资料，账号包含哪些订阅还没弄清？",
+      "hookAnswer": "ChatGPT成品号，交付后按说明登录",
+      "hookPayoff": "登录后核对账号和已含订阅权益",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想用ChatGPT Plus处理日常任务",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后核对登录及套餐权益，不保证免审核"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "ChatGPT成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 152,
+    "generated": {
+      "scenarioAudience": "有写作、整理资料需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "团队席位不等于个人独立订阅，权限和期限须核对",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用团队版，席位还没安排好？",
+      "hookSubtitle": "已经需要团队版，但还没有可用席位？",
+      "hookAnswer": "选择团队席位类商品",
+      "hookPayoff": "交付后核对席位与使用期限",
+      "offerSubtitle": "先确认加入条件，再按交付流程安排席位",
+      "offerScene": "想加入ChatGPT团队席位",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "选择团队席位类商品",
+      "steps": [
+        "确认席位与期限",
+        "核对加入条件后下单",
+        "按交付流程核对席位"
+      ],
+      "stepDetails": [
+        "分清团队席位和个人独立订阅",
+        "确认账号、加入方式及售后范围",
+        "按约定交付，核对席位和使用周期"
+      ],
+      "ctaTitle": "席位这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询席位",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 153,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Codex成品号，交付后按说明登录",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Codex账号用于编程辅助",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Codex成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 154,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "按约定规格交付账号；普通账号不包含付费会员",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，账号还没准备好？",
+      "hookSubtitle": "需要可用账号，但类型和交付条件还没确认？",
+      "hookAnswer": "Codex成品号，交付后按说明登录",
+      "hookPayoff": "普通账号不等于付费会员",
+      "offerSubtitle": "购买现成账号，交付后按说明登录",
+      "offerScene": "想准备Codex账号用于编程辅助",
+      "offerEvidence": "成品账号交付 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "账号交付，具体拿到什么？",
+      "points": [
+        {
+          "title": "成品账号交付",
+          "detail": "交付后按说明登录，普通号不含付费订阅"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "账号，具体怎么拿到？",
+      "processSubtitle": "Codex成品号，交付后按说明登录",
+      "steps": [
+        "选择账号规格",
+        "确认条件后下单",
+        "收取交付并核对登录"
+      ],
+      "stepDetails": [
+        "确认账号类型、地区及是否包含付费权益",
+        "确认交付、使用限制和售后范围",
+        "按交付说明登录，核对账号及所含权益"
+      ],
+      "ctaTitle": "账号准备这一步，找杰哥对接。",
+      "ctaButton": "看主页简介 · 咨询账号",
+      "ctaNote": "先说明要普通账号，还是含订阅的成品号",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 155,
+    "generated": {
+      "scenarioAudience": "有编程辅助需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "原数据未明确的服务能力，须由商家确认后才能宣传",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用Codex，不知道从哪开始？",
+      "hookSubtitle": "你卡在开通、账号，还是使用条件？",
+      "hookAnswer": "先确认这款商品提供什么",
+      "hookPayoff": "确认对应服务后，再按说明办理",
+      "offerSubtitle": "服务类型未识别，先由店铺确认能否承接",
+      "offerScene": "想使用Codex",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先确认这款商品提供什么",
+      "steps": [
+        "说明你遇到的卡点",
+        "确认商品能否承接",
+        "按确认后的流程办理"
+      ],
+      "stepDetails": [
+        "先说明要用什么、卡在哪一步",
+        "由店铺确认服务类型和适用条件",
+        "范围、费用和交付方式确认后再下单"
+      ],
+      "ctaTitle": "把卡点说清，再找对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  },
+  {
+    "id": 156,
+    "generated": {
+      "scenarioAudience": "有自己的日常任务需求、需要核对开通条件的国内用户",
+      "scenarioBasis": "",
+      "serviceBoundary": "仅按真实资格办理，不代替审核或保证认证成功",
+      "hookQuestion": "怎么办？",
+      "hookTitle": "想用优惠方案，资格条件符合吗？",
+      "hookSubtitle": "资格或认证条件没确认，不能直接当会员买",
+      "hookAnswer": "先核对资格类商品的办理范围",
+      "hookPayoff": "确认资格有效后，按商品说明操作",
+      "offerSubtitle": "只按真实资格与商品规则办理，不承诺绕过审核",
+      "offerScene": "想使用账号的资格类方案",
+      "offerEvidence": "先对适用条件 · 规格与范围 · 售后先问清",
+      "reasonsTitle": "服务内容，先对上需求。",
+      "points": [
+        {
+          "title": "先对适用条件",
+          "detail": "资格、地区和使用方式，确认后再选"
+        },
+        {
+          "title": "规格与范围",
+          "detail": "确认具体规格、权益范围和有效期"
+        },
+        {
+          "title": "售后先问清",
+          "detail": "是否有质保、覆盖什么，先问再决定"
+        }
+      ],
+      "processTitle": "具体怎么办理？",
+      "processSubtitle": "先核对资格类商品的办理范围",
+      "steps": [
+        "说明真实资格",
+        "确认适用条件",
+        "按规则办理或兑换"
+      ],
+      "stepDetails": [
+        "如实说明账号和资格情况",
+        "确认是否符合该商品的条件",
+        "不得冒用资格或将资格误当会员"
+      ],
+      "ctaTitle": "符合条件，再办理对应方案。",
+      "ctaButton": "看主页简介 · 咨询对应服务",
+      "ctaNote": "说明你想用什么、卡在哪一步",
+      "disclaimer": "页面参考价；适用条件、交付、库存和售后以商品页面为准"
+    }
+  }
+]

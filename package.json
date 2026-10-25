@@ -3,8 +3,9 @@
   "private": true,
   "scripts": {
     "render": "remotion render",
-    "web": "node server.cjs",
-    "dev": "node server.cjs",
+    "web": "node src/server/server.cjs",
+    "dev": "node src/server/server.cjs",
+    "prepare:single": "node tools/build-single-products.cjs",
     "prepare:logos": "python tools/prepare_logos.py"
   },
   "dependencies": {
@@ -21,3 +22,4 @@
     "typescript": "5.9.3"
   }
 }
+

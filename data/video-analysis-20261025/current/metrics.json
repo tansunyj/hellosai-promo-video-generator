@@ -1,0 +1,31 @@
+{
+ "technical_summary": {
+  "container": "mov,mp4,m4a,3gp,3g2,mj2",
+  "duration_s": 15.02,
+  "size_bytes": "2118298",
+  "overall_bitrate": "1128329",
+  "video_codec": "h264",
+  "resolution": "1080x1920",
+  "fps": 24.0,
+  "aspect": "9:16",
+  "audio_codec": "aac",
+  "sample_rate": "48000",
+  "channels": 2
+ },
+ "audio": {
+  "integrated_lufs": "-19.5",
+  "lra": "0.8",
+  "true_peak_dbfs": null,
+  "silences": [],
+  "total_silence_s": 0
+ },
+ "visual": {},
+ "prosody": {
+  "chars": 7,
+  "speech_dur": 15.0,
+  "total_dur": 15.02,
+  "chars_per_min": 28.0,
+  "speech_occupancy_pct": 99.9,
+  "pauses": []
+ }
+}

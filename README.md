@@ -1,4 +1,4 @@
-﻿# HellosAI 视频生成器
+# HellosAI 视频生成器
 
 一个基于 Remotion 的竖屏 AI 数字商品宣传视频生成器。
 
@@ -100,7 +100,7 @@ taskkill /PID <进程号> /F
 public/商品目录.json
 ```
 
-商品目录由 `catalog.cjs` 根据店铺商品清单生成。当前服务端从 `public/商品目录.json` 读取商品数据，包括：
+商品目录由 `src/server/catalog.cjs` 根据店铺商品清单生成。当前服务端从 `public/商品目录.json` 读取商品数据，包括：
 
 - 商品名称。
 - 原始商品名称。
@@ -113,7 +113,7 @@ public/商品目录.json
 如果需要重新生成商品目录，在项目根目录执行：
 
 ```powershell
-node catalog.cjs
+node src/server/catalog.cjs
 ```
 
 生成前请确认商品源文件 `店铺商品.txt` 位于项目根目录，并且使用 UTF-8 编码保存。
@@ -223,14 +223,19 @@ npm run render -- ShopPromoGenerator output/manual.mp4 --props=output/HellosAI_P
 │  ├─ index.tsx                Remotion 入口
 │  ├─ renderConfig.ts          默认渲染配置
 │  ├─ selectedProducts.ts      默认商品参数
-│  └─ logo-assets.json         原始 Logo 到透明 Logo 的映射
+│  ├─ logo-assets.json         原始 Logo 到透明 Logo 的映射
+│  └─ server/
+│     ├─ server.cjs            Web 服务和 Remotion 导出服务
+│     ├─ catalog.cjs           生成商品目录
+│     └─ single-*.cjs          单商品文案、分类与风险边界模块
 ├─ web/
 │  └─ index.html                Web 操作页面
 ├─ tools/
 │  ├─ prepare_logos.py          透明 Logo 处理脚本
+│  ├─ build-single-products.cjs 单商品目录构建
+│  ├─ audit-single-copy.cjs     单商品文案审计
+│  ├─ upgrade-single-copy.cjs   单商品文案升级
 │  └─ requirements-logos.txt    Python 依赖
-├─ catalog.cjs                 生成商品目录
-├─ server.cjs                  Web 服务和 Remotion 导出服务
 ├─ package.json                npm 命令和依赖
 ├─ package-lock.json           npm 锁定依赖版本
 └─ remotion.config.ts          Remotion 配置
@@ -249,10 +254,10 @@ npm run web
 npm run prepare:logos
 
 # 检查服务端 JavaScript 语法
-node --check server.cjs
+node --check src/server/server.cjs
 
 # 检查目录生成脚本语法
-node --check catalog.cjs
+node --check src/server/catalog.cjs
 
 # 检查 TypeScript 类型
 npx.cmd tsc --noEmit
@@ -275,7 +280,7 @@ npx.cmd tsc --noEmit
 - 页面预览使用真实 Remotion Player，不维护独立的假预览布局。
 - 商品 Logo、商品价格和商品文案由模板统一渲染，避免手工编辑视频时出现错位。
 - 删除或替换 Logo 后，建议重新执行 `npm run prepare:logos`，并在网页中刷新商品目录。
-- 修改 `src/Video.tsx`、`server.cjs` 或 `web/index.html` 后，需要重启 `npm run dev` 并刷新浏览器页面。
+- 修改 `src/Video.tsx`、`src/server/server.cjs` 或 `web/index.html` 后，需要重启 `npm run dev` 并刷新浏览器页面。
 
 ## 2026-10-21 视频优化
 
@@ -297,4 +302,6 @@ AI文案候选生成、自动卡点和传播效果分析尚未实现。本工具
 
 5～10 个商品的自动节奏调整为每项 3 秒，保证要点和价格出现后至少保留约 2 秒稳定阅读时间。10 个商品约 34.5 秒；1～4 个商品及标准节奏仍为每项 3.25 秒，封面 2.5 秒、结尾 2 秒。可选提示卡每张增加 2 秒。
 
-服务启动后修改 src 下的组件，刷新页面会按文件更新时间重新构建预览脚本。修改 server.cjs 本身仍需重启服务。已有 MP4 不会自动改变，需要重新导出。
+服务启动后修改 src 下的组件，刷新页面会按文件更新时间重新构建预览脚本。修改 src/server/server.cjs 本身仍需重启服务。已有 MP4 不会自动改变，需要重新导出。
+
+

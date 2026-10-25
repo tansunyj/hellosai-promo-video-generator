@@ -1,4 +1,4 @@
-﻿# HellosAI 视频生成器优化设计方案
+# HellosAI 视频生成器优化设计方案
 
 > 状态：已实施基础优化，详细落地记录见第15节
 >
@@ -27,8 +27,8 @@
 
 当前项目已经具备较完整的生成链路：
 
-- `server.cjs` 读取 `public/商品目录.json`，将商品 ID 转换成渲染参数。
-- `server.cjs` 动态扫描 `public/assets/background/` 和 `public/assets/bgm/`。
+- `src/server/server.cjs` 读取 `public/商品目录.json`，将商品 ID 转换成渲染参数。
+- `src/server/server.cjs` 动态扫描 `public/assets/background/` 和 `public/assets/bgm/`。
 - Web 页面通过 `/api/products`、`/api/assets`、`/api/preview`、`/api/render` 与服务端交互。
 - 商品最多选择 10 个，服务端在 `prepareInput()` 中进行去重和截断。
 - `src/preview.tsx` 使用 Remotion `Player` 预览视频。
@@ -665,3 +665,4 @@ BGM 按动态最终时长处理：音乐较长则按成片时长截取；较短�
 项目已导出独立 `_cover.png` 文件，可作为视频封面素材。单张 PNG 不等同于完整图文笔记；若制作图文内容，仍需人工补充多页图片和相应文案。
 
 结尾网址和 CTA 应按实际发布渠道及适用规则由用户选择、人工复核；不以隐藏链接、谐音或暗号规避审核。
+
