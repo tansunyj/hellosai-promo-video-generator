@@ -6,7 +6,8 @@
     "web": "node src/server/server.cjs",
     "dev": "node src/server/server.cjs",
     "prepare:single": "node tools/build-single-products.cjs",
-    "prepare:logos": "python tools/prepare_logos.py"
+    "prepare:logos": "python tools/prepare_logos.py",
+    "sync:five-questions": "node tools/sync-five-question-copy.cjs"
   },
   "dependencies": {
     "@remotion/cli": "4.0.534",
@@ -22,4 +23,3 @@
     "typescript": "5.9.3"
   }
 }
-

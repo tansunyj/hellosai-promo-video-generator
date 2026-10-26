@@ -1,6 +1,6 @@
 const fs = require('node:fs');
 const path = require('node:path');
-const {normalizeStory, validateStory, getStoryNarrative} = require('./single-story-model.cjs');
+const {buildDecisionFlow, normalizeStory, validateStory, getStoryNarrative} = require('./single-story-model.cjs');
 const {classify} = require('../../tools/build-single-products.cjs');
 const {createCopywriting} = require('./single-copywriting.cjs');
 const {enforceStoryPolicy, sanitizeDisplayProduct} = require('./single-copy-policy.cjs');
@@ -26,7 +26,7 @@ function readSingleProducts() {
     }
     const story = normalizeStory(enforceStoryPolicy(normalizeStory(saved, recommended.story), info));
     const recommendedStory = normalizeStory({...story, ...recommended.story, confirmed: false});
-    return {...product, product: sanitizeDisplayProduct(product.product, info), story, recommendedStory, recommendedHookOptions: recommended.hookOptions, copywriting: {...product.copywriting, evidence: recommended.evidence, hookOptions: recommended.hookOptions, chain: getStoryNarrative(story)}};
+    return {...product, product: sanitizeDisplayProduct(product.product, info), story, recommendedStory, recommendedHookOptions: recommended.hookOptions, copywriting: {...product.copywriting, version: 10, evidence: recommended.evidence, hookOptions: recommended.hookOptions, chain: getStoryNarrative(story), decisionFlow: buildDecisionFlow(story, product.product)}};
   })};
 }
 

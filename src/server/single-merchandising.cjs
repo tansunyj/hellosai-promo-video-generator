@@ -19,11 +19,14 @@ function merchandiseCopy(copy, product, info) {
     const invoice = /国内发票|报销|可开发票|可开票/.test(title);
     const ownAccount = /自己|个人账号|直充/.test(title);
     const tierHook = info.tier ? target + '支付卡住？' : name + '账号有了，会员怎么充？';
-    patch(tierHook, '想用来' + (applications[name] || '处理日常任务') + '，却卡在订阅支付？', name + '充值方案，解决付款这一步', '已有账号，想开通对应套餐', price + '对应本款充值；' + (info.duration || '周期需核对') + '，不含账号注册', [
-      point(ownAccount ? '充到已有账号' : '对应套餐充值', '不是另外买账号；地区、档位和办理渠道需匹配'),
+    patch(tierHook, '账号已经有了，偏偏卡在订阅支付这一步？', ownAccount ? '用自己的账号，按对应档位办理' : '先核对适用账号，再选对应订阅方案', '已有账号，想开通' + (info.tier || '对应套餐'), '页面参考价' + price + ' · ' + (info.duration || '周期需核对') + ' · 不含账号注册', [
+      point(ownAccount ? '自己的账号办理' : '适用账号先核对', '不是另外买账号；地区、档位和办理渠道需匹配'),
       point(invoice ? '有开票需求可问' : info.tier ? '对应' + info.tier + '档' : '按所选套餐办理', invoice ? '原商品标注可开票，开票主体、类型及费用先确认' : '本报价对应当前规格，不将不同档位混为一谈'),
-      point('充值后验收', '到账后查看实际套餐和有效期，不以口头承诺代替')
-    ], ['选档位与渠道', '按说明办理充值', '查看套餐与有效期'], ['提供目标档位和账号地区，不提供无关身份资料', '核对适用条件后，通过约定的安全方式办理', '登录自己的账号，核对套餐及到期时间'], '账号不用重来，充值这一步找对应方案。', '看主页简介 · 查看充值方案');
+      point('完成后自己验收', '登录账号查看实际套餐和有效期，不以口头承诺代替')
+    ], ['确认账号与档位', '按说明办理订阅', '查看套餐与有效期'], ['提供目标档位和账号地区，不提供无关身份资料', '核对适用条件后，通过约定的安全方式办理', '登录自己的账号，核对套餐及到期时间'], '订阅这一步，选对方案再办理。', '看主页简介 · 核对订阅方案');
+    story.reasonsTitle = '省不省，先看清这3点';
+    story.processTitle = '怎么买？3步看懂';
+    story.ctaNote = '带上账号地区与目标档位，先确认适用条件';
     if (invoice) {story.hookTitle = name + '充值想开票？看看这一款'; story.reasonsTitle = '充值和开票需求，一起说清楚';}
     if (/全自动|自动卡密|自动发货/.test(title) && !invoice) story.points[1] = point('标注自助办理', '原名含自动办理或卡密发货，实际流程按说明操作');
     if (name === 'Grok') {story.hookTitle = 'Grok' + (info.duration || '套餐') + '只要' + price + '？'; story.hookSubtitle = '想控制订阅预算，又卡在支付这一步？'; angle = 'price-and-payment';}

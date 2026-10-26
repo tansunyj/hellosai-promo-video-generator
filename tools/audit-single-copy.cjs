@@ -3,7 +3,7 @@ const path = require('node:path');
 const assert = require('node:assert/strict');
 const {classify} = require('./build-single-products.cjs');
 const {createCopywriting} = require('../src/server/single-copywriting.cjs');
-const {normalizeStory, validateStory, getStoryNarrative} = require('../src/server/single-story-model.cjs');
+const {buildDecisionFlow, normalizeStory, validateStory, getStoryNarrative} = require('../src/server/single-story-model.cjs');
 const {enforceStoryPolicy} = require('../src/server/single-copy-policy.cjs');
 
 const root = path.resolve(__dirname, '..');
@@ -49,10 +49,15 @@ for (const item of catalog.products) {
     assert.deepEqual(item.originalProduct, original, 'originalProduct must remain unchanged');
     assert.equal(item.product.price, original.price);
     assert.equal(item.copywriting.profile, info.type);
-    assert.equal(item.copywriting.version, 7);
+    assert.equal(item.copywriting.version, 10);
     assert.equal(item.copywriting.evidence.sellingAngle, generated.evidence.sellingAngle);
     assert.notEqual(item.copywriting.evidence.sellingAngle, 'service-specific');
     assert.deepEqual(item.copywriting.chain, getStoryNarrative(story));
+    assert.deepEqual(item.copywriting.decisionFlow, buildDecisionFlow(story, item.product));
+    assert.equal(item.copywriting.decisionFlow.version, 2);
+    assert.ok(item.copywriting.decisionFlow.emotion?.tension?.headline);
+    assert.ok(item.copywriting.decisionFlow.emotion?.reassurance?.headline);
+    assert.deepEqual(Object.values(item.copywriting.decisionFlow).filter(value => value && value.question).map(value => value.question), ['贵不贵？','是什么？','凭什么放心？','怎么买？','现在做什么？']);
     assert.equal(validateStory({...story, confirmed:true}).length, 0);
     normalizeStory(story);
     assert.deepEqual(enforceStoryPolicy(story, info), story);
@@ -78,14 +83,14 @@ for (const [id,type] of [[35,'account'],[37,'privacy-mail'],[43,'account'],[63,'
   if (byId.get(id).copywriting.profile !== type) errors.push({id,error:'Expected type '+type});
 }
 const group = key => records.reduce((counts,item) => ({...counts,[item[key]]:(counts[item[key]] || 0)+1}), {});
-const report = {version:7, generatedAt:new Date().toISOString(), scope:'153项逐商品源数据与五幕文案检查；不是实时价格、库存或平台政策核验', methods:['dbs-hook：主题、利益、可信度及正文承接', 'content-risk-detector：证据、误导宣传与承诺边界'], total:records.length, changed:records.filter(item => item.changedFields.length).length, types:group('offerType'), angles:group('angle'), statuses:group('status'), errors, products:records};
+const report = {version:10, generatedAt:new Date().toISOString(), scope:'153项逐商品源数据与五幕文案检查；不是实时价格、库存或平台政策核验', methods:['五问决策漏斗：贵不贵、是什么、凭什么放心、怎么买、现在做什么', 'content-risk-detector：证据、误导宣传与承诺边界'], total:records.length, changed:records.filter(item => item.changedFields.length).length, types:group('offerType'), angles:group('angle'), statuses:group('status'), errors, products:records};
 if (errors.length) {console.error(JSON.stringify({errors},null,2)); process.exitCode=1;}
 if (process.argv.includes('--write') && !errors.length) {
   const directory = path.join(root, 'docs');
-  const filename = path.join(directory, 'SINGLE_PRODUCT_COPY_AUDIT_V7');
+  const filename = path.join(directory, 'SINGLE_PRODUCT_COPY_AUDIT_V10');
   fs.writeFileSync(filename+'.json', JSON.stringify(report,null,2),'utf8');
   const escape = value => String(value).replace(/\|/g,'／').replace(/[\r\n]+/g,' ');
-  const lines = ['# 全商品文案审查 V7', '', '覆盖 '+report.total+' 项，修改 '+report.changed+' 项。'+report.scope+'。', '', '所有稿件仍需商家核对；needs-information 为缺信息、资格或有效期待核实，不应直接投放。未发布未经核实的官方原价、同款折扣、绝对成功率或防封承诺。', '', '## 分类与发布前核对', '', ...Object.entries(report.types).map(([type,count]) => '- '+type+'：'+count+' 项'), '', '## 需要优先核实', '', ...records.filter(item => item.status==='needs-information').map(item => '- #'+item.id+' '+item.rawTitle+'：'+item.requiredReview.join('；')), '', '## 逐商品审稿', '', '| ID | 原商品 | 报价 | 主卖点与改稿依据 | 新开场 | 解法 | 需保留的边界 |', '| --- | --- | --- | --- | --- | --- | --- |', ...records.map(item => '| '+[item.id,item.rawTitle,item.referencePrice,item.editorialDecision,item.newHook,item.solution,item.requiredReview.join('；') || '按源数据交付，商家确认后发布'].map(escape).join(' | ')+' |'), '', '完整五幕字段、修改项和来源依据见同名 JSON；不保证曝光、成交或平台审核结果。'];
+  const lines = ['# 全商品文案审查 V10', '', '覆盖 '+report.total+' 项，修改 '+report.changed+' 项。'+report.scope+'。', '', '所有稿件仍需商家核对；needs-information 为缺信息、资格或有效期待核实，不应直接投放。未发布未经核实的官方原价、同款折扣、绝对成功率或防封承诺。', '', '## 分类与发布前核对', '', ...Object.entries(report.types).map(([type,count]) => '- '+type+'：'+count+' 项'), '', '## 需要优先核实', '', ...records.filter(item => item.status==='needs-information').map(item => '- #'+item.id+' '+item.rawTitle+'：'+item.requiredReview.join('；')), '', '## 逐商品审稿', '', '| ID | 原商品 | 报价 | 主卖点与改稿依据 | 新开场 | 解法 | 需保留的边界 |', '| --- | --- | --- | --- | --- | --- | --- |', ...records.map(item => '| '+[item.id,item.rawTitle,item.referencePrice,item.editorialDecision,item.newHook,item.solution,item.requiredReview.join('；') || '按源数据交付，商家确认后发布'].map(escape).join(' | ')+' |'), '', '完整五幕字段、修改项和来源依据见同名 JSON；不保证曝光、成交或平台审核结果。'];
   fs.writeFileSync(filename+'.md',lines.join('\n'),'utf8');
 }
 console.log(JSON.stringify({total:report.total,changed:report.changed,types:report.types,statuses:report.statuses,errors:errors.length},null,2));

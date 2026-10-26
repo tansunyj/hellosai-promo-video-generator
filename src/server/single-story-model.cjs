@@ -77,5 +77,46 @@ function getStoryNarrative(story) {
   return {goal: value.offerScene, blocker: value.hookSubtitle, question: value.hookQuestion, solution: value.hookAnswer, mechanism: value.offerSubtitle, details: value.points, steps: value.steps, stepDetails: value.stepDetails, result: value.hookPayoff, cta: {title: value.ctaTitle, button: value.ctaButton, note: value.ctaNote, brand: value.brand}};
 }
 
-module.exports = {getStoryNarrative, STORY_FPS, STORY_DURATION, STORY_BOUNDARIES, normalizeStory, validateStory, stockStatus, fitStoryText};
+function emotionalHeadlines(value) {
+  const category = value.category;
+  let tensionHeadline = '这款方案，先别急着下单。';
+  if (/充值|订阅|权益/.test(category)) tensionHeadline = '订阅这一步，先别买贵了。';
+  else if (/验证/.test(category)) tensionHeadline = '收验证码这一步，别花冤枉钱。';
+  else if (/账号|邮箱/.test(category)) tensionHeadline = '准备账号，先别买错。';
+  else if (/兑换/.test(category)) tensionHeadline = '兑换之前，先把价格看清。';
+  else if (/租用/.test(category)) tensionHeadline = '短期使用，没必要多花钱。';
+  if (/活动已结束|请勿下单|先别下单/.test(value.hookTitle)) tensionHeadline = value.hookTitle;
 
+  let trustHeadline = '能核对的，才更放心。';
+  if (/充值|订阅/.test(category) && /自己|已有账号/.test(JSON.stringify(value.points) + value.hookAnswer)) trustHeadline = '自己的账号，办理更踏实。';
+  else if (/验证/.test(category)) trustHeadline = '只处理收码，边界更清楚。';
+  else if (/账号|邮箱/.test(category)) trustHeadline = '交付什么，先给你说清楚。';
+  else if (/兑换/.test(category)) trustHeadline = '规则看明白，兑换更省心。';
+
+  return {
+    tension: {emotion: '防损焦虑', eyebrow: value.productTitle, headline: tensionHeadline, subline: value.hookSubtitle},
+    reveal: {emotion: '价格获得感', eyebrow: '价格直接说', headline: '这款页面参考价', payoff: '先看价格，再看它具体包含什么'},
+    reassurance: {emotion: '安心确定', eyebrow: '放心不是靠保证', headline: trustHeadline, subline: '先看3个来自商品资料的可核对事实'},
+    ease: {emotion: '轻松可执行', eyebrow: '流程不用猜', headline: '怎么买？三步就清楚'},
+    action: {emotion: '行动推动', eyebrow: '看明白了', headline: '现在就做这一步'}
+  };
+}
+
+function buildDecisionFlow(story, product = {}) {
+  const value = normalizeStory(story);
+  const referencePrice = String(product.price || '').trim() || '价格见商品详情';
+  const productFacts = Array.isArray(product.facts) ? product.facts.map(item => String(item).trim()) : [];
+  const offerFacts = value.offerSubtitle.split(/[·｜|；;]/u).map(item => item.trim()).filter(item => item && !item.includes(referencePrice) && !/页面参考价/u.test(item));
+  const specs = [...new Set([...offerFacts, ...productFacts].filter(Boolean))].slice(0, 3);
+  return {
+    version: 2,
+    emotion: emotionalHeadlines(value),
+    price: {question: '贵不贵？', referencePrice, label: '本款页面参考价', answer: value.offerSubtitle, context: value.hookTitle, blocker: value.hookSubtitle},
+    product: {question: '是什么？', title: value.productTitle, category: value.category, answer: value.hookAnswer, useCase: value.offerScene, boundary: value.serviceBoundary, specs},
+    trust: {question: '凭什么放心？', framing: '不是喊一句“放心”，先看3个可核对事实', facts: value.points, result: value.hookPayoff},
+    process: {question: '怎么买？', subtitle: value.processSubtitle, steps: value.steps.map((title, index) => ({title, detail: value.stepDetails[index]}))},
+    action: {question: '现在做什么？', title: value.ctaTitle, button: value.ctaButton, note: value.ctaNote, disclaimer: value.disclaimer}
+  };
+}
+
+module.exports = {buildDecisionFlow, getStoryNarrative, STORY_FPS, STORY_DURATION, STORY_BOUNDARIES, normalizeStory, validateStory, stockStatus, fitStoryText};

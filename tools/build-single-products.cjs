@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const crypto = require('node:crypto');
 const {createCopywriting} = require('../src/server/single-copywriting.cjs');
-const {normalizeStory, stockStatus} = require('../src/server/single-story-model.cjs');
+const {buildDecisionFlow, normalizeStory, stockStatus} = require('../src/server/single-story-model.cjs');
 const {sanitizeDisplayProduct} = require('../src/server/single-copy-policy.cjs');
 const {identifyOffer} = require('../src/server/single-offer-types.cjs');
 const root = path.resolve(__dirname, '..');
@@ -33,10 +33,10 @@ function formatProduct(product, index, sourceHash, logos) {
   const info = classify(product);
   const copy = createCopywriting(product, info);
   const sourceImage = product.image ? 'assets/' + product.image.replace(/^assets\//, '') : '';
-  return {
+  const entry = {
     ...product,
     originalProduct: {...product},
-    copywriting: {version: 7, profile: copy.profile, chain: copy.chain, evidence: copy.evidence, hookOptions: copy.hookOptions, structure: ['商品专属目标与卡点', '匹配交付形式的解法', '权益与风险边界', '具体办理与验收', '针对卡点的行动入口']},
+    copywriting: {version: 10, profile: copy.profile, chain: copy.chain, evidence: copy.evidence, hookOptions: copy.hookOptions, structure: ['贵不贵：页面参考价前置', '是什么：方案与服务边界', '凭什么放心：三项可核对事实', '怎么买：三步办理路径', '现在做什么：明确行动入口']},
     id: product.id,
     category: product.category || '',
     stock: product.stock ?? '',
@@ -46,6 +46,8 @@ function formatProduct(product, index, sourceHash, logos) {
     source: {file: 'source-products.json', index, sha256: sourceHash, rawTitle: product.rawTitle || '', displayTitle: product.displayTitle || '', originalPrice: product.price || '', originalDelivery: product.delivery || '', originalFacts: product.facts || []},
     review: {required: true, warnings: [copy.profile === 'needs-review' || copy.profile === 'subscription-review' ? '原数据未明确服务形式；必须确认可承接的卡点与交付方式后再使用文案' : '', /[…]|\.\.\./.test(product.displayTitle || '') ? '原展示名已截断，短名由原始名称整理，需核对' : '', /活动已结束|请勿下单|已下架/.test(info.title) ? '原名包含停止销售提示，请勿直接宣传' : '', '这是源文件快照，不是实时库存'].filter(Boolean)}
   };
+  entry.copywriting.decisionFlow = buildDecisionFlow(entry.story, entry.product);
+  return entry;
 }
 
 function build() {
